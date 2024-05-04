@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="exercise_minutes" data-name="exercise minutes" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1005 739">
+  <rect id="background" width="1005" height="739" style="fill: #fff; stroke-width: 0px;"/>
+  <g id="viz2">
+    <g id="axis">
+      <g>
+        <g>
+          <line x1="177" y1="157.6" x2="177" y2="660.5" style="fill: none; stroke: #c9c9c9;"/>
+          <text transform="translate(171.3 679.8)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">40</tspan></text>
+        </g>
+        <g>
+          <line x1="265.1" y1="159.6" x2="265.1" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <text transform="translate(259.5 679.8)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">50</tspan></text>
+        </g>
+        <g>
+          <line x1="353.2" y1="159.6" x2="353.2" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <text transform="translate(347.6 679.8)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">60</tspan></text>
+        </g>
+        <g>
+          <line x1="441.4" y1="159.6" x2="441.4" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <text transform="translate(435.7 679.8)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">70</tspan></text>
+        </g>
+        <g>
+          <line x1="529.5" y1="159.6" x2="529.5" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <text transform="translate(523.8 679.8)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">80</tspan></text>
+        </g>
+        <g>
+          <line x1="617.6" y1="159.6" x2="617.6" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <text transform="translate(612 679.8)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">90</tspan></text>
+        </g>
+        <g>
+          <line x1="705.7" y1="159.6" x2="705.7" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <text transform="translate(697.3 679.8)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">100</tspan></text>
+        </g>
+        <g>
+          <line x1="793.8" y1="159.6" x2="793.8" y2="662.5" style="fill: none; stroke: #c9c9c9; stroke-width: .8px;"/>
+          <text transform="translate(785.8 679.8)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">110</tspan></text>
+        </g>
+        <g>
+          <line x1="882" y1="159.6" x2="882" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <text transform="translate(873.5 679.8)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">120</tspan></text>
+        </g>
+      </g>
+      <g>
+        <g style="isolation: isolate;">
+          <text transform="translate(854.5 700.9)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 12px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">E</tspan><tspan x="7.04" y="0" style="letter-spacing: -.02em;">x</tspan><tspan x="13.28" y="0">e</tspan><tspan x="18.67" y="0" style="letter-spacing: -.01em;">r</tspan><tspan x="23.8" y="0">cise Minute</tspan></text>
+        </g>
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <text transform="translate(98.6 639.4)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">O</tspan><tspan x="10.95" y="0" style="letter-spacing: -.01em;">v</tspan><tspan x="17.67" y="0" style="letter-spacing: 0em;">erall</tspan></text>
+          </g>
+          <g style="isolation: isolate;">
+            <text transform="translate(89.2 584.4)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">85 ab</tspan><tspan x="33.93" y="0" style="letter-spacing: -.01em;">o</tspan><tspan x="41.22" y="0" style="letter-spacing: -.01em;">v</tspan><tspan x="47.94" y="0">e</tspan></text>
+          </g>
+          <g style="isolation: isolate;">
+            <text transform="translate(104.7 529.4)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">75-84</tspan></text>
+          </g>
+          <g style="isolation: isolate;">
+            <text transform="translate(104.7 474.4)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">65-74</tspan></text>
+          </g>
+          <g style="isolation: isolate;">
+            <text transform="translate(104.7 419.4)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">55-64</tspan></text>
+          </g>
+          <g style="isolation: isolate;">
+            <text transform="translate(104.7 364.4)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">45-54</tspan></text>
+          </g>
+          <g style="isolation: isolate;">
+            <text transform="translate(104.7 309.4)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">35-44</tspan></text>
+          </g>
+          <g style="isolation: isolate;">
+            <text transform="translate(104.7 254.4)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">25-34</tspan></text>
+          </g>
+          <g style="isolation: isolate;">
+            <text transform="translate(104.7 199.4)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">15-24</tspan></text>
+          </g>
+        </g>
+        <g style="isolation: isolate;">
+          <text transform="translate(66.8 163.7)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 12px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" style="letter-spacing: -.01em;">A</tspan><tspan x="7.79" y="0">ge G</tspan><tspan x="30.73" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="35.9" y="0">oup</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="visualization2">
+      <g id="_25-34" data-name=" 25-34">
+        <text transform="translate(399 297)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">69.1   </tspan></text>
+      </g>
+      <g id="_15-24" data-name=" 15-24">
+        <text transform="translate(336.1 188.3)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">61.7   </tspan></text>
+      </g>
+      <g id="_25-34-2" data-name=" 25-34-2">
+        <text transform="translate(377.6 243.3)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">66.4   </tspan></text>
+      </g>
+      <g id="_45-54" data-name=" 45-54">
+        <text transform="translate(429.6 353.3)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">72.3   </tspan></text>
+      </g>
+      <g id="_55-64" data-name=" 55-64">
+        <text transform="translate(459.5 408.3)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">75.7</tspan></text>
+      </g>
+      <g id="_65-74" data-name=" 65-74">
+        <text transform="translate(395.8 463.3)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">68</tspan></text>
+      </g>
+      <g id="_75-84" data-name=" 75-84">
+        <text transform="translate(306.2 518.3)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">58.3   </tspan></text>
+      </g>
+      <g id="_85_above" data-name=" 85 above">
+        <text transform="translate(192.5 573.3)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">45.4  </tspan></text>
+      </g>
+      <g id="Overall">
+        <text transform="translate(397 628.3)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">68.6   </tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="PERCENTAGE">
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(590.5 610.5)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-35.47%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(560.6 175.7)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-40.50%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(640.6 284.4)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-39.28%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(594.7 231)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-38.06%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(643 337.2)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-38.26%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <text transform="translate(663.7 393.7)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-33.48%</tspan></text>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(245.5 558.7)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve"> -13.85%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(503.1 447.3)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-22.81%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(401.6 503.4)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-21.43%</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="arrow2">
+    <polygon points="738.3 186.3 373.1 184.9 373.1 181 368.2 185.9 373.1 190.8 373.1 186.8 738.3 188.2 738.3 186.3" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polygon points="769.2 241.9 414.5 240.6 414.5 236.7 409.6 241.5 414.5 246.5 414.5 242.5 769.2 243.9 769.2 241.9" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polygon points="827.3 295.7 438.3 294.3 438.3 290.4 433.4 295.2 438.3 300.2 438.3 296.2 827.3 297.7 827.3 295.7" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polygon points="856.9 351 467.8 349.6 467.9 345.6 463 350.5 467.8 355.4 467.8 351.5 856.9 352.9 856.9 351" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polygon points="829 405.9 496.5 404.7 496.5 400.7 491.6 405.6 496.5 410.5 496.5 406.6 829 407.8 829 405.9" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polygon points="601.3 460.5 426.4 460.1 426.4 456.2 421.5 461 426.4 465.9 426.4 462 601.3 462.4 601.3 460.5" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polygon points="481.3 515.7 343.1 515.4 343.1 511.5 338.2 516.4 343.1 521.3 343.1 517.3 481.3 517.6 481.3 515.7" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polygon points="763.3 625.7 433.9 625 433.9 621 429 625.9 433.9 630.8 433.9 626.9 763.3 627.6 763.3 625.7" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polygon points="288.9 570.2 229.5 570.1 229.5 566.1 224.6 571 229.4 575.9 229.4 572 288.9 572.1 288.9 570.2" style="fill: #bc1b3a; stroke-width: 0px;"/>
+  </g>
+  <g id="dot">
+    <circle cx="854.5" cy="351.5" r="4.3" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="828" cy="406.9" r="4.3" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="828" cy="296.7" r="4.3" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="769" cy="243.9" r="4.3" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="738.1" cy="187.4" r="4.3" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="602.4" cy="461.5" r="4.3" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="482.3" cy="516.7" r="4.3" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="289.2" cy="572" r="4.3" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="764.8" cy="626.7" r="4.3" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+  </g>
+  <g id="year2">
+    <line x1="738.3" y1="144.2" x2="738.3" y2="178.8" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: .8px;"/>
+    <line x1="371.5" y1="143.5" x2="371.5" y2="178.2" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: .8px;"/>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <text transform="translate(718.7 138.2)" style="fill: #303030; font-family: Amiri-Bold, Amiri; font-size: 12px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">2014/15</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <text transform="translate(348 137)" style="fill: #303030; font-family: Amiri-Bold, Amiri; font-size: 12px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">2020/22</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="grill2">
+    <g>
+      <line x1="167.1" y1="201" x2="167.6" y2="201" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="168.6" y1="201" x2="892.1" y2="199.1" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892.6" y1="199.1" x2="893.1" y2="199.1" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.5" y1="255" x2="167" y2="255" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="168" y1="255" x2="891.5" y2="253.2" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892" y1="253.2" x2="892.5" y2="253.2" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.6" y1="309.1" x2="167.1" y2="309.1" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="168.1" y1="309.1" x2="891.6" y2="307.2" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892.1" y1="307.2" x2="892.6" y2="307.2" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.5" y1="363.1" x2="167" y2="363.1" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="168" y1="363.1" x2="891.5" y2="361.2" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892" y1="361.2" x2="892.5" y2="361.2" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.5" y1="421" x2="167" y2="421" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="168" y1="421" x2="891.5" y2="419.1" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892" y1="419.1" x2="892.5" y2="419.1" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.5" y1="478.9" x2="167" y2="478.9" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="168" y1="478.9" x2="891.5" y2="477" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892" y1="477" x2="892.5" y2="477" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.3" y1="532.9" x2="166.8" y2="532.9" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="167.8" y1="532.9" x2="891.3" y2="531" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="891.8" y1="531" x2="892.3" y2="531" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.4" y1="587" x2="166.9" y2="587" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="167.9" y1="587" x2="891.5" y2="585.1" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892" y1="585.1" x2="892.5" y2="585.1" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="168.2" y1="644.8" x2="168.7" y2="644.8" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="169.7" y1="644.8" x2="893.3" y2="643" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="893.8" y1="643" x2="894.3" y2="643" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+  </g>
+  <g id="arrow3">
+    <polyline points="548.1 167.1 553.6 177.5 559.1 167.1" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="583.9 222.9 589.4 233.3 594.9 222.9" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="628.3 276.2 633.8 286.5 639.3 276.2" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="630.7 329.2 636.2 339.6 641.7 329.2" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="651 385.8 656.5 396.2 662 385.8" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="491.1 439 496.6 449.4 502.1 439" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="390.8 495.2 396.3 505.5 401.8 495.2" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="237.2 550.8 242.7 561.1 248.2 550.8" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="579.7 603.1 585.2 613.5 590.7 603.1" style="fill: #bc1b3a; stroke-width: 0px;"/>
+  </g>
+  <g style="isolation: isolate;">
+    <g style="isolation: isolate;">
+      <text transform="translate(106.5 75.1)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 20px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">The Changes in E</tspan><tspan x="151.34" y="0" style="letter-spacing: -.02em;">x</tspan><tspan x="161.74" y="0">e</tspan><tspan x="170.72" y="0" style="letter-spacing: -.01em;">r</tspan><tspan x="179.26" y="0">cises Minutes of </tspan><tspan x="323.71" y="0" style="letter-spacing: -.02em;">H</tspan><tspan x="337.77" y="0">ong </tspan><tspan x="374.95" y="0" style="letter-spacing: -.04em;">K</tspan><tspan x="388.27" y="0">onge</tspan><tspan x="428.59" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="437.27" y="0">s</tspan></text>
+    </g>
+    <g style="isolation: isolate;">
+      <text transform="translate(106.5 99.1)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 20px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" style="letter-spacing: -.02em;">A</tspan><tspan x="12.84" y="0">c</tspan><tspan x="21.56" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="30.18" y="0">oss Di</tspan><tspan x="83.16" y="0" style="letter-spacing: 0em;">ff</tspan><tspan x="96.06" y="0">e</tspan><tspan x="105.04" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="113.66" y="0" style="letter-spacing: 0em;">ent </tspan><tspan x="146.78" y="0" style="letter-spacing: -.01em;">A</tspan><tspan x="159.76" y="0">ge G</tspan><tspan x="198" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="206.62" y="0" style="letter-spacing: 0em;">oups in 7 </tspan><tspan x="292.66" y="0" style="letter-spacing: -.09em;">Y</tspan><tspan x="302.98" y="0">ea</tspan><tspan x="321.16" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="329.84" y="0">s</tspan></text>
+    </g>
+  </g>
+  <g style="isolation: isolate;">
+    <g style="isolation: isolate;">
+      <text transform="translate(106.7 716.2)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 13px; isolation: isolate;"><tspan x="0" y="0">Sou</tspan><tspan x="19.36" y="0" style="letter-spacing: 0em;">r</tspan><tspan x="24.11" y="0">ce: </tspan><tspan x="41.59" y="0" style="letter-spacing: -.01em;">R</tspan><tspan x="49.32" y="0">eports of </tspan><tspan x="99.14" y="0" style="letter-spacing: -.03em;">P</tspan><tspan x="105.67" y="0">opulation </tspan><tspan x="158.19" y="0" style="letter-spacing: -.02em;">H</tspan><tspan x="167.14" y="0">ealth </tspan><tspan x="195.56" y="0" style="letter-spacing: 0em;">S</tspan><tspan x="201.86" y="0">ur</tspan><tspan x="213.25" y="0" style="letter-spacing: -.01em;">v</tspan><tspan x="219.07" y="0">ey 2020-22 and 2014-15, issued </tspan><tspan x="394.57" y="0" style="letter-spacing: 0em;">b</tspan><tspan x="400.77" y="0">y the Department of </tspan><tspan x="509.54" y="0" style="letter-spacing: -.02em;">H</tspan><tspan x="518.48" y="0">ealth</tspan></text>
+    </g>
+  </g>
+</svg>

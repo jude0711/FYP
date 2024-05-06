@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="jpcurriculum" data-name="jpcurriculum" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 805 600">
+  <defs>
+    <style>
+      .CJP1 {
+        fill: #253831;
+      }
+
+      .CJP1, .CJP2, .CJP3, .CJP4, .CJP5, .CJP6, .CJP7, .CJP8, .CJP9, .CJP10, .CJP11, .CJP12, .CJP13 {
+        font-family: Amiri-Bold, Amiri;
+        font-weight: 700;
+      }
+
+      .CJP1, .CJP8, .CJP13 {
+        font-size: 17.9px;
+      }
+
+      .CJP2 {
+        font-size: 93.7px;
+      }
+
+      .CJP2, .CJP5, .CJP6, .CJP9, .CJP10, .CJP12, .CJP14 {
+        fill: #fff;
+      }
+
+      .CJP2, .CJP5, .CJP9, .CJP12 {
+        opacity: .2;
+      }
+
+      .CJP3 {
+        fill: #8cd6bc;
+        font-size: 34.4px;
+        opacity: .7;
+      }
+
+      .CJP4 {
+        fill: #000;
+        font-size: 22px;
+      }
+
+      .CJP4, .CJP15, .CJP16 {
+        isolation: isolate;
+      }
+
+      .CJP17 {
+        font-family: KozGoPr6N-Regular-83pv-RKSJ-H, 'Kozuka Gothic Pr6N';
+      }
+
+      .CJP18 {
+        letter-spacing: 0em;
+      }
+
+      .CJP18, .CJP19 {
+        font-family: Amiri-Regular, Amiri;
+      }
+
+      .CJP5 {
+        font-size: 174.3px;
+      }
+
+      .CJP6 {
+        font-size: 70px;
+      }
+
+      .CJP6, .CJP10 {
+        opacity: .8;
+      }
+
+      .CJP20 {
+        fill: #2b423a;
+      }
+
+      .CJP20, .CJP21, .CJP22, .CJP23, .CJP14, .CJP24 {
+        stroke-width: 0px;
+      }
+
+      .CJP15 {
+        fill: #636363;
+        font-size: 14.3px;
+      }
+
+      .CJP7 {
+        fill: #94e3c7;
+        opacity: .5;
+      }
+
+      .CJP7, .CJP11 {
+        font-size: 18.7px;
+      }
+
+      .CJP21 {
+        fill: #6aba9d;
+      }
+
+      .CJP22 {
+        fill: #365e50;
+      }
+
+      .CJP8 {
+        fill: #e8fff7;
+      }
+
+      .CJP9 {
+        font-size: 49.6px;
+      }
+
+      .CJP10 {
+        font-size: 39.6px;
+      }
+
+      .CJP11 {
+        fill: #91dec3;
+      }
+
+      .CJP23 {
+        fill: #7fdebc;
+      }
+
+      .CJP12 {
+        font-size: 81.6px;
+      }
+
+      .CJP25 {
+        fill: #5ca188;
+        stroke: #b4001e;
+        stroke-miterlimit: 10;
+        stroke-width: 1.6px;
+      }
+
+      .CJP13 {
+        fill: #b8ffe6;
+      }
+
+      .CJP24 {
+        fill: #548272;
+      }
+    </style>
+  </defs>
+  <rect id="background" class="CJP14" y="0" width="805" height="600"/>
+  <g id="areaaa">
+    <rect id="path0" class="CJP20" x="84.6" y="75.1" width="313.8" height="460.3"/>
+    <rect id="path4" class="CJP22" x="403.3" y="75.1" width="166.6" height="211.6"/>
+    <rect id="path5" class="CJP25" x="574.7" y="75.1" width="135.2" height="211.6"/>
+    <rect id="path6" class="CJP24" x="403.3" y="291.6" width="149.7" height="243.8"/>
+    <rect id="path7" class="CJP21" x="557.8" y="291.6" width="152.1" height="136"/>
+    <rect id="path8" class="CJP23" x="557.8" y="432.4" width="152.1" height="103"/>
+  </g>
+  <g id="Wordsss">
+    <text class="CJP5" transform="translate(89.9 285.2) scale(1 1)"><tspan x="0" y="0">51%</tspan></text>
+    <text class="CJP12" transform="translate(98.9 422.8) scale(1 1)"><tspan x="0" y="0">1283 hr</tspan></text>
+    <text class="CJP3" transform="translate(118 265.1)"><tspan x="0" y="0">Foreign Language</tspan><tspan x="0" y="41.3">Science</tspan><tspan x="0" y="82.6">Mathematics</tspan><tspan x="0" y="123.8">Society</tspan></text>
+    <text class="CJP11" transform="translate(413.3 96.1)"><tspan x="0" y="0">Japanese</tspan></text>
+    <text class="CJP2" transform="translate(404.3 194.1) scale(1 1)"><tspan x="0" y="0">13%</tspan></text>
+    <text class="CJP7" transform="translate(410.9 378)"><tspan x="0" y="0">Comprehensive</tspan><tspan x="0" y="22.5">Learning </tspan><tspan x="0" y="44.9">Morality</tspan><tspan x="0" y="67.4">Special Activities</tspan></text>
+    <text class="CJP1" transform="translate(584.9 99.8)"><tspan x="0" y="0">PE</tspan></text>
+    <text class="CJP6" transform="translate(577.9 177.5) scale(1 1)"><tspan x="0" y="0">10%</tspan></text>
+    <text class="CJP10" transform="translate(584.4 233.8) scale(1 1)"><tspan x="0" y="0">263 hr</tspan></text>
+    <text class="CJP13" transform="translate(569.9 314)"><tspan x="0" y="0">Music and</tspan><tspan x="0" y="21.5">Art</tspan></text>
+    <text class="CJP8" transform="translate(569.6 455.8)"><tspan x="0" y="0">Technology</tspan><tspan x="0" y="21.5">and Home</tspan></text>
+  </g>
+  <g class="CJP16">
+    <text class="CJP4" transform="translate(87.9 37.2)"><tspan x="0" y="0">Japan&apos;s Three-Year Secondary School Curriculum Allocation</tspan></text>
+  </g>
+  <g class="CJP16">
+    <text class="CJP15" transform="translate(84.6 569)"><tspan class="CJP19" x="0" y="0">Source: </tspan><tspan class="CJP17" x="45.9" y="0">標準授業時数について</tspan><tspan class="CJP18" x="189.1" y="0">, issued by the Ministry of Education, Culture, Sport, Science and Technology of Japan.</tspan></text>
+  </g>
+  <text class="CJP9" transform="translate(414.8 255.9) scale(1 1)"><tspan x="0" y="0">321 hr</tspan></text>
+</svg>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Allocation_hk" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 805 600">
+  <defs>
+    <style>
+      .CHK1 {
+        fill: #253831;
+      }
+
+      .CHK1, .CHK2, .CHK3, .CHK4, .CHK5, .CHK6, .CHK7, .CHK8, .CHK9, .CHK10, .CHK11, .CHK12 {
+        font-family: Amiri-Bold, Amiri;
+        font-weight: 700;
+      }
+
+      .CHK1, .CHK11 {
+        font-size: 16.2px;
+      }
+
+      .CHK2 {
+        font-size: 44.1px;
+      }
+
+      .CHK2, .CHK3, .CHK6, .CHK8, .CHK10, .CHK13, .CHK12 {
+        fill: #fff;
+      }
+
+      .CHK2, .CHK6 {
+        opacity: .8;
+      }
+
+      .CHK3 {
+        font-size: 68.7px;
+      }
+
+      .CHK3, .CHK8, .CHK10, .CHK12 {
+        opacity: .2;
+      }
+
+      .CHK14 {
+        fill: #5ca188;
+        stroke: #b4001e;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .CHK4 {
+        font-size: 33px;
+        opacity: .7;
+      }
+
+      .CHK4, .CHK9 {
+        fill: #8cd6bc;
+      }
+
+      .CHK5 {
+        fill: #91dec3;
+      }
+
+      .CHK5, .CHK9 {
+        font-size: 17px;
+      }
+
+      .CHK15 {
+        fill: #2b423a;
+      }
+
+      .CHK15, .CHK16, .CHK13, .CHK17 {
+        stroke-width: 0px;
+      }
+
+      .CHK6 {
+        font-size: 24.9px;
+      }
+
+      .CHK7 {
+        fill: #000;
+        font-size: 20px;
+      }
+
+      .CHK7, .CHK18, .CHK19 {
+        isolation: isolate;
+      }
+
+      .CHK8 {
+        font-size: 138.3px;
+      }
+
+      .CHK18 {
+        fill: #636363;
+        font-family: Amiri-Regular, Amiri;
+        font-size: 13px;
+      }
+
+      .CHK16 {
+        fill: #365e50;
+      }
+
+      .CHK10 {
+        font-size: 83px;
+      }
+
+      .CHK11 {
+        fill: #94e3c7;
+      }
+
+      .CHK17 {
+        fill: #548272;
+      }
+
+      .CHK12 {
+        font-size: 177.2px;
+      }
+    </style>
+  </defs>
+  <rect id="background" class="CHK13" y="0" width="805" height="600"/>
+  <g id="area33">
+    <g id="leaves">
+      <g id="Core">
+        <rect id="path0" class="CHK15" x="118.6" y="112.9" width="310.6" height="418"/>
+      </g>
+      <g id="Electives">
+        <rect id="path4" class="CHK16" x="433.6" y="112.9" width="252.8" height="277"/>
+      </g>
+      <g id="PE">
+        <rect id="path8" class="CHK17" x="433.6" y="394.2" width="252.8" height="136.6"/>
+        <rect id="path8-2" data-name="path8" class="CHK14" x="433.6" y="394.2" width="84.3" height="136.6"/>
+      </g>
+    </g>
+  </g>
+  <g id="Words3">
+    <text class="CHK12" transform="translate(118.6 312.7) scale(1 1)"><tspan x="0" y="0">55%</tspan></text>
+    <text class="CHK4" transform="translate(148.7 286.7)"><tspan x="0" y="0">Chinese</tspan><tspan x="0" y="39.6">English</tspan><tspan x="0" y="79.2">Mathematics</tspan><tspan x="0" y="118.8">Liberal Studies</tspan></text>
+    <text class="CHK9" transform="translate(127.2 132)"><tspan x="0" y="0">Four Core Subjects</tspan></text>
+    <text class="CHK5" transform="translate(442.7 132)"><tspan x="0" y="0">Two or Three </tspan><tspan x="0" y="20.4">Elective Subjects</tspan></text>
+    <text class="CHK10" transform="translate(127.7 452.6) scale(1 1)"><tspan x="0" y="0">1375 hr</tspan></text>
+    <text class="CHK8" transform="translate(438.6 259) scale(1 1)"><tspan x="0" y="0">30%</tspan></text>
+    <text class="CHK3" transform="translate(461.9 343.5) scale(1 1)"><tspan x="0" y="0">750 hr</tspan></text>
+    <text class="CHK11" transform="translate(568 501.5)"><tspan x="0" y="0">Other Learning </tspan><tspan x="0" y="19.5">Experiences</tspan></text>
+    <text class="CHK1" transform="translate(439.3 412.2)"><tspan x="0" y="0">PE</tspan></text>
+    <text class="CHK2" transform="translate(446.9 459) scale(1 1)"><tspan x="0" y="0">5%</tspan></text>
+    <text class="CHK6" transform="translate(439.9 494.5) scale(1 1)"><tspan x="0" y="0">125 hr</tspan></text>
+  </g>
+  <g class="CHK19">
+    <text class="CHK7" transform="translate(119.9 78.5)"><tspan x="0" y="0">Hong Kong&apos;s Three-Year Secondary School Curriculum Allocation</tspan></text>
+  </g>
+  <g class="CHK19">
+    <text class="CHK18" transform="translate(119.3 559.4)"><tspan x="0" y="0">Source: Secondary Education Curriculum Guide (2017), Booklet 2, issued by the Education Bureau.</tspan></text>
+  </g>
+</svg>

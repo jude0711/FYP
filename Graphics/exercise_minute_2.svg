@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-a54a775b-1c3e-4dd9-b590-300df7e8fa49" data-name="exercise minutes" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1005 739">
+  <rect id="uuid-40ff3321-cd74-416e-82a7-7ea8d8c8e1bc" data-name="background" width="1005" height="739" style="fill: #fff; stroke-width: 0px;"/>
+  <g id="uuid-04e5e73d-c2ef-4d67-90a5-ea1642ccaeb9" data-name="viz2">
+    <g id="uuid-468d51d3-b029-4cdd-a90b-bb469d54abcc" data-name="axis">
+      <g>
+        <path d="M882,656.5v6" style="fill: none; stroke: #c9c9c9;"/>
+        <path d="M177,662.5v-6" style="fill: none; stroke: #c9c9c9;"/>
+        <g>
+          <line x1="177" y1="157.600006103515625" x2="177" y2="660.5" style="fill: none; stroke: #c9c9c9;"/>
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(171.300003051757812 679.79998779296875)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">40</tspan></text>
+                    <text transform="translate(171.300003051757812 679.79998779296875)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #c9c9c9; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">40</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g>
+          <line x1="265.100006103515625" y1="159.600006103515625" x2="265.100006103515625" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(259.5 679.79998779296875)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">50</tspan></text>
+                    <text transform="translate(259.5 679.79998779296875)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #c9c9c9; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">50</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g>
+          <line x1="353.20001220703125" y1="159.600006103515625" x2="353.20001220703125" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(347.600006103515625 679.79998779296875)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">60</tspan></text>
+                    <text transform="translate(347.600006103515625 679.79998779296875)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #c9c9c9; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">60</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g>
+          <line x1="441.399993896484375" y1="159.600006103515625" x2="441.399993896484375" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(435.70001220703125 679.79998779296875)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">70</tspan></text>
+                    <text transform="translate(435.70001220703125 679.79998779296875)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #c9c9c9; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">70</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g>
+          <line x1="529.5" y1="159.600006103515625" x2="529.5" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(523.79998779296875 679.79998779296875)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">80</tspan></text>
+                    <text transform="translate(523.79998779296875 679.79998779296875)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #c9c9c9; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">80</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g>
+          <line x1="617.5999755859375" y1="159.600006103515625" x2="617.5999755859375" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(612 679.79998779296875)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">90</tspan></text>
+                    <text transform="translate(612 679.79998779296875)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #c9c9c9; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">90</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g>
+          <line x1="705.70001220703125" y1="159.600006103515625" x2="705.70001220703125" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(697.29998779296875 679.79998779296875)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">100</tspan></text>
+                    <text transform="translate(697.29998779296875 679.79998779296875)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #c9c9c9; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">100</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g>
+          <line x1="793.79998779296875" y1="159.600006103515625" x2="793.79998779296875" y2="662.5" style="fill: none; stroke: #c9c9c9; stroke-width: .800000011920929px;"/>
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(785.79998779296875 679.79998779296875)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">110</tspan></text>
+                    <text transform="translate(785.79998779296875 679.79998779296875)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #c9c9c9; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">110</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g>
+          <line x1="882" y1="159.600006103515625" x2="882" y2="662.5" style="fill: none; stroke: #c9c9c9;"/>
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(873.5 679.79998779296875)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">120</tspan></text>
+                    <text transform="translate(873.5 679.79998779296875)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #c9c9c9; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">120</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <text transform="translate(854.5 700.9000244140625)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 12px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">E</tspan><tspan x="7.0439453125" y="0" style="letter-spacing: -.023966471354167em;">x</tspan><tspan x="13.2841796875" y="0">e</tspan><tspan x="18.671875" y="0" style="letter-spacing: -.010986328125em;">r</tspan><tspan x="23.7958984375" y="0">cise Minute</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(104.699996948242188 199.4000244140625)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">15-24</tspan></text>
+                    <text transform="translate(104.699996948242188 199.4000244140625)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">15-24</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(104.699996948242188 254.4000244140625)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">25-34</tspan></text>
+                    <text transform="translate(104.699996948242188 254.4000244140625)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">25-34</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(104.699996948242188 309.4000244140625)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">35-44</tspan></text>
+                    <text transform="translate(104.699996948242188 309.4000244140625)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">35-44</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(104.699996948242188 364.399993896484375)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">45-54</tspan></text>
+                    <text transform="translate(104.699996948242188 364.399993896484375)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">45-54</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(104.699996948242188 419.399993896484375)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">55-64</tspan></text>
+                    <text transform="translate(104.699996948242188 419.399993896484375)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">55-64</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(104.699996948242188 474.399993896484375)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">65-74</tspan></text>
+                    <text transform="translate(104.699996948242188 474.399993896484375)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">65-74</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(104.699996948242188 529.4000244140625)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">75-84</tspan></text>
+                    <text transform="translate(104.699996948242188 529.4000244140625)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">75-84</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(89.199996948242188 584.4000244140625)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">85 ab</tspan><tspan x="33.9296875" y="0" style="letter-spacing: -.011002604166667em;">o</tspan><tspan x="41.2197265625" y="0" style="letter-spacing: -.01298828125em;">v</tspan><tspan x="47.93994140625" y="0">e</tspan></text>
+                    <text transform="translate(89.199996948242188 584.4000244140625)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">85 ab</tspan><tspan x="33.9296875" y="0" style="letter-spacing: -.011002604166667em;">o</tspan><tspan x="41.2197265625" y="0" style="letter-spacing: -.01298828125em;">v</tspan><tspan x="47.93994140625" y="0">e</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <text transform="translate(98.599998474121094 639.4000244140625)" style="fill: #1a1a1a; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate;"><tspan x="0" y="0">O</tspan><tspan x="10.94970703125" y="0" style="letter-spacing: -.01298828125em;">v</tspan><tspan x="17.669921875" y="0" style="letter-spacing: .000032552083333em;">erall</tspan></text>
+                    <text transform="translate(98.599998474121094 639.4000244140625)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 15px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">O</tspan><tspan x="10.94970703125" y="0" style="letter-spacing: -.01298828125em;">v</tspan><tspan x="17.669921875" y="0" style="letter-spacing: .000032552083333em;">erall</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <text transform="translate(66.800003051757812 163.70001220703125)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 12px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" style="letter-spacing: -.010009765625em;">A</tspan><tspan x="7.7880859375" y="0">ge G</tspan><tspan x="30.7314453125" y="0" style="letter-spacing: -.006998697916667em;">r</tspan><tspan x="35.9033203125" y="0">oup</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="uuid-e09a1d67-5180-4b56-8ab3-7cd258c2f380" data-name="visualization2">
+      <g id="uuid-6b24b572-4580-4f9b-abe4-71a21814b3a1" data-name=" 25-34">
+        <g id="uuid-950143b7-c8ae-44d7-9708-30f2bfd8bb58" data-name="labels">
+          <g id="uuid-b471e530-0b8e-42f0-80d1-72b3338c7d8a" data-name=" 66.4">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <g style="isolation: isolate;">
+                      <g style="isolation: isolate;">
+                        <g style="isolation: isolate;">
+                          <text transform="translate(399 297)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">69.1   </tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="uuid-aa6e1f59-be55-404a-9f83-9d348425384b" data-name=" 15-24">
+        <g id="uuid-4c07bba7-4d14-4cc1-81d9-895d8c74c30d" data-name="labels-2">
+          <g id="uuid-3ca6c562-a01b-42ea-a071-9571a6ec1893" data-name=" 61.7">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <g style="isolation: isolate;">
+                      <g style="isolation: isolate;">
+                        <g style="isolation: isolate;">
+                          <text transform="translate(336.100006103515625 188.29998779296875)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">61.7   </tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="uuid-aab493e6-84ad-4464-8075-0762acfb4de5" data-name=" 25-34-2">
+        <g id="uuid-37a4aa4b-844c-4a6d-99d2-8a0d39005788" data-name="labels-3">
+          <g id="uuid-1cf0635a-6be0-4f18-8f24-fdd1305ba4b5" data-name=" 66.4-2">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <g style="isolation: isolate;">
+                      <g style="isolation: isolate;">
+                        <g style="isolation: isolate;">
+                          <text transform="translate(377.600006103515625 243.29998779296875)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">66.4   </tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="uuid-846a6032-9c4f-4cec-a141-61efa27e23a7" data-name=" 45-54">
+        <g id="uuid-94d54fb2-0c2b-4b40-a7b2-701fb287c328" data-name="labels-4">
+          <g id="uuid-17d72759-b932-425d-9f8d-c635051a15b9" data-name=" 72.3">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <g style="isolation: isolate;">
+                      <g style="isolation: isolate;">
+                        <g style="isolation: isolate;">
+                          <text transform="translate(429.600006103515625 353.29998779296875)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">72.3   </tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="uuid-b0bf3e22-b06b-4608-b791-fd731a617ed7" data-name=" 55-64">
+        <g id="uuid-e34b68eb-bac6-4558-ab40-d8659425b6d4" data-name="labels-5">
+          <g id="uuid-12a303c1-4c70-47fd-9c5b-1869b09687d0" data-name=" 75.7">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <g style="isolation: isolate;">
+                      <g style="isolation: isolate;">
+                        <g style="isolation: isolate;">
+                          <text transform="translate(459.5 408.29998779296875)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">75.7</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="uuid-9808cf83-f519-471f-b8f6-bdfd90f77f5f" data-name=" 65-74">
+        <g id="uuid-6f70fb6f-20ae-494b-9c4f-865438f96fc5" data-name="labels-6">
+          <g id="uuid-38cecbc0-8191-49d1-88a2-e78df9bff841" data-name=" 68">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <g style="isolation: isolate;">
+                      <g style="isolation: isolate;">
+                        <g style="isolation: isolate;">
+                          <text transform="translate(395.79998779296875 463.29998779296875)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">68</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="uuid-1c54ead5-43b1-4553-96c6-11c2019f4132" data-name=" 75-84">
+        <g id="uuid-bcdc7b22-dda9-4165-a991-71cc6ffa84c6" data-name="labels-7">
+          <g id="uuid-6c4b63e3-1a6b-4099-ba93-254b00990651" data-name=" 58.3">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <g style="isolation: isolate;">
+                      <g style="isolation: isolate;">
+                        <g style="isolation: isolate;">
+                          <text transform="translate(306.20001220703125 518.29998779296875)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">58.3   </tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="uuid-72bacbcd-de74-4f43-9934-fe25fb772913" data-name=" 85 above">
+        <g id="uuid-578b4d22-1a94-4c16-b07c-6b4812dc8653" data-name="labels-8">
+          <g id="uuid-2912b1e6-4be9-4fc5-86ec-1aae26f177ff" data-name=" 45.4">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <g style="isolation: isolate;">
+                      <g style="isolation: isolate;">
+                        <g style="isolation: isolate;">
+                          <text transform="translate(192.5 573.29998779296875)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">45.4  </tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="uuid-f3a39d92-cf1d-41eb-aa91-5edacccd51c6" data-name="Overall">
+        <g id="uuid-1ca10f2d-a6c8-4820-b275-8038e9eb6d42" data-name="labels-9">
+          <g id="uuid-d076c0f4-1e9e-4206-b5ba-456a4d220300" data-name=" 68.6">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <g style="isolation: isolate;">
+                  <g style="isolation: isolate;">
+                    <g style="isolation: isolate;">
+                      <g style="isolation: isolate;">
+                        <g style="isolation: isolate;">
+                          <text transform="translate(397 628.29998779296875)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 14px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve">68.6   </tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="uuid-ef7c3ee5-b4f3-416a-9f66-aa8f3c9979de" data-name="PERCENTAGE">
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(590.5 610.5)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-35.47%</tspan></text>
+          <text transform="translate(590.5 610.5)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">-35.47%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(560.5999755859375 175.70001220703125)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-40.50%</tspan></text>
+          <text transform="translate(560.5999755859375 175.70001220703125)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">-40.50%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(640.5999755859375 284.4000244140625)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-39.28%</tspan></text>
+          <text transform="translate(640.5999755859375 284.4000244140625)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">-39.28%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(594.70001220703125 231)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-38.06%</tspan></text>
+          <text transform="translate(594.70001220703125 231)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">-38.06%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(643 337.20001220703125)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-38.26%</tspan></text>
+          <text transform="translate(643 337.20001220703125)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">-38.26%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(663.70001220703125 393.70001220703125)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-33.48%</tspan></text>
+          <text transform="translate(663.70001220703125 393.70001220703125)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">-33.48%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(245.5 558.70001220703125)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0" xml:space="preserve"> -13.85%</tspan></text>
+          <text transform="translate(245.5 558.70001220703125)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0" xml:space="preserve"> -13.85%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(503.100006103515625 447.29998779296875)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-22.81%</tspan></text>
+          <text transform="translate(503.100006103515625 447.29998779296875)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">-22.81%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <text transform="translate(401.600006103515625 503.399993896484375)" style="fill: #451b3a; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate;"><tspan x="0" y="0">-21.43%</tspan></text>
+          <text transform="translate(401.600006103515625 503.399993896484375)" style="fill: none; font-family: Amiri-Regular, Amiri; font-size: 9px; isolation: isolate; stroke: #1a1a1a; stroke-miterlimit: 10; stroke-width: .200000002980232px;"><tspan x="0" y="0">-21.43%</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="uuid-c169e2cb-181e-4e68-ae25-eb54d3c32817" data-name="arrow2">
+    <g>
+      <line x1="738.29998779296875" y1="187.199996948242188" x2="368.20001220703125" y2="185.899993896484375" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="738.29998779296875 186.300003051757812 373.100006103515625 184.899993896484375 373.100006103515625 181 368.20001220703125 185.899993896484375 373.100006103515625 190.800003051757812 373.100006103515625 186.800003051757812 738.29998779296875 188.199996948242188 738.29998779296875 186.300003051757812" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    </g>
+    <g>
+      <line x1="769.20001220703125" y1="242.899993896484375" x2="409.600006103515625" y2="241.5" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="769.20001220703125 241.899993896484375 414.5 240.600006103515625 414.5 236.699996948242188 409.600006103515625 241.5 414.5 246.5 414.5 242.5 769.20001220703125 243.899993896484375 769.20001220703125 241.899993896484375" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    </g>
+    <g>
+      <line x1="827.29998779296875" y1="296.70001220703125" x2="433.399993896484375" y2="295.20001220703125" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="827.29998779296875 295.70001220703125 438.29998779296875 294.29998779296875 438.29998779296875 290.399993896484375 433.399993896484375 295.20001220703125 438.29998779296875 300.20001220703125 438.29998779296875 296.20001220703125 827.29998779296875 297.70001220703125 827.29998779296875 295.70001220703125" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    </g>
+    <g>
+      <line x1="856.9000244140625" y1="352" x2="463" y2="350.5" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="856.9000244140625 351 467.79998779296875 349.600006103515625 467.899993896484375 345.600006103515625 463 350.5 467.79998779296875 355.399993896484375 467.79998779296875 351.5 856.9000244140625 352.899993896484375 856.9000244140625 351" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    </g>
+    <g>
+      <line x1="829" y1="406.899993896484375" x2="491.600006103515625" y2="405.600006103515625" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="829 405.899993896484375 496.5 404.70001220703125 496.5 400.70001220703125 491.600006103515625 405.600006103515625 496.5 410.5 496.5 406.600006103515625 829 407.79998779296875 829 405.899993896484375" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    </g>
+    <g>
+      <line x1="601.29998779296875" y1="461.399993896484375" x2="421.5" y2="461" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="601.29998779296875 460.5 426.399993896484375 460.100006103515625 426.399993896484375 456.20001220703125 421.5 461 426.399993896484375 465.899993896484375 426.399993896484375 462 601.29998779296875 462.399993896484375 601.29998779296875 460.5" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    </g>
+    <g>
+      <line x1="481.29998779296875" y1="516.70001220703125" x2="338.20001220703125" y2="516.4000244140625" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="481.29998779296875 515.70001220703125 343.100006103515625 515.4000244140625 343.100006103515625 511.5 338.20001220703125 516.4000244140625 343.100006103515625 521.29998779296875 343.100006103515625 517.29998779296875 481.29998779296875 517.5999755859375 481.29998779296875 515.70001220703125" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    </g>
+    <g>
+      <line x1="763.29998779296875" y1="626.70001220703125" x2="429" y2="625.9000244140625" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="763.29998779296875 625.70001220703125 433.899993896484375 625 433.899993896484375 621 429 625.9000244140625 433.899993896484375 630.79998779296875 433.899993896484375 626.9000244140625 763.29998779296875 627.5999755859375 763.29998779296875 625.70001220703125" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    </g>
+    <g>
+      <line x1="288.899993896484375" y1="571.20001220703125" x2="224.600006103515625" y2="571" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="288.899993896484375 570.20001220703125 229.5 570.0999755859375 229.5 566.0999755859375 224.600006103515625 571 229.399993896484375 575.9000244140625 229.399993896484375 572 288.899993896484375 572.0999755859375 288.899993896484375 570.20001220703125" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    </g>
+  </g>
+  <g id="uuid-3b1a6e48-1bde-49b8-a873-434d70bb09f3" data-name="dot">
+    <circle cx="854.5" cy="351.5" r="4.29998779296875" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="828" cy="406.899993896484375" r="4.29998779296875" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="828" cy="296.70001220703125" r="4.29998779296875" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="769" cy="243.899993896484375" r="4.299995422363281" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="738.0999755859375" cy="187.399993896484375" r="4.299995422363281" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="602.4000244140625" cy="461.5" r="4.29998779296875" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="482.29998779296875" cy="516.70001220703125" r="4.29998779296875" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="289.20001220703125" cy="572" r="4.29998779296875" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+    <circle cx="764.79998779296875" cy="626.70001220703125" r="4.29998779296875" style="fill: #bc1b3a; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
+  </g>
+  <g id="uuid-551918fa-e1bb-4ea5-8e6b-07ffe37aca9c" data-name="year2">
+    <line x1="738.29998779296875" y1="144.199996948242188" x2="738.29998779296875" y2="178.800003051757812" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: .800000011920929px;"/>
+    <line x1="371.5" y1="143.5" x2="371.5" y2="178.199996948242188" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: .800000011920929px;"/>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <text transform="translate(718.70001220703125 138.20001220703125)" style="fill: #303030; font-family: Amiri-Bold, Amiri; font-size: 12px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">2014/15</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <g style="isolation: isolate;">
+              <g style="isolation: isolate;">
+                <text transform="translate(348 137)" style="fill: #303030; font-family: Amiri-Bold, Amiri; font-size: 12px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">2020/22</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="uuid-78ffeb16-bc67-4ae9-af4d-e9de4827cddf" data-name="grill2">
+    <g>
+      <line x1="167.100006103515625" y1="201" x2="167.600006103515625" y2="201" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="168.600006103515625" y1="201" x2="892.0999755859375" y2="199.100006103515625" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892.5999755859375" y1="199.100006103515625" x2="893.0999755859375" y2="199.100006103515625" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.5" y1="255" x2="167" y2="255" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="168" y1="255" x2="891.5" y2="253.199996948242188" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892" y1="253.199996948242188" x2="892.5" y2="253.199996948242188" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.600006103515625" y1="309.100006103515625" x2="167.100006103515625" y2="309.100006103515625" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="168.100006103515625" y1="309.100006103515625" x2="891.5999755859375" y2="307.20001220703125" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892.0999755859375" y1="307.20001220703125" x2="892.5999755859375" y2="307.20001220703125" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.5" y1="363.100006103515625" x2="167" y2="363.100006103515625" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="168" y1="363.100006103515625" x2="891.5" y2="361.20001220703125" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892" y1="361.20001220703125" x2="892.5" y2="361.20001220703125" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.5" y1="421" x2="167" y2="421" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="168" y1="421" x2="891.5" y2="419.100006103515625" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892" y1="419.100006103515625" x2="892.5" y2="419.100006103515625" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.5" y1="478.899993896484375" x2="167" y2="478.899993896484375" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="168" y1="478.899993896484375" x2="891.5" y2="477" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892" y1="477" x2="892.5" y2="477" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.300003051757812" y1="532.9000244140625" x2="166.800003051757812" y2="532.9000244140625" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="167.800003051757812" y1="532.9000244140625" x2="891.29998779296875" y2="531" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="891.79998779296875" y1="531" x2="892.29998779296875" y2="531" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="166.399993896484375" y1="587" x2="166.899993896484375" y2="587" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="167.899993896484375" y1="587" x2="891.5" y2="585.0999755859375" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="892" y1="585.0999755859375" x2="892.5" y2="585.0999755859375" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+    <g>
+      <line x1="168.199996948242188" y1="644.79998779296875" x2="168.699996948242188" y2="644.79998779296875" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="169.699996948242188" y1="644.79998779296875" x2="893.29998779296875" y2="643" style="fill: none; stroke: #a3a3a3; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="893.79998779296875" y1="643" x2="894.29998779296875" y2="643" style="fill: none; stroke: #a3a3a3; stroke-miterlimit: 10; stroke-width: .5px;"/>
+    </g>
+  </g>
+  <g id="uuid-3d601a25-ea09-403f-b4b8-f7d5aea87d23" data-name="arrow3">
+    <polyline points="548.0999755859375 167.100006103515625 553.5999755859375 177.5 559.0999755859375 167.100006103515625" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="583.9000244140625 222.899993896484375 589.4000244140625 233.300003051757812 594.9000244140625 222.899993896484375" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="628.29998779296875 276.20001220703125 633.79998779296875 286.5 639.29998779296875 276.20001220703125" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="630.70001220703125 329.20001220703125 636.20001220703125 339.600006103515625 641.70001220703125 329.20001220703125" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="651 385.79998779296875 656.5 396.20001220703125 662 385.79998779296875" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="491.100006103515625 439 496.600006103515625 449.399993896484375 502.100006103515625 439" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="390.79998779296875 495.20001220703125 396.29998779296875 505.5 401.79998779296875 495.20001220703125" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="237.199996948242188 550.79998779296875 242.699996948242188 561.0999755859375 248.199996948242188 550.79998779296875" style="fill: #bc1b3a; stroke-width: 0px;"/>
+    <polyline points="579.70001220703125 603.0999755859375 585.20001220703125 613.5 590.70001220703125 603.0999755859375" style="fill: #bc1b3a; stroke-width: 0px;"/>
+  </g>
+  <g style="isolation: isolate;">
+    <g style="isolation: isolate;">
+      <text transform="translate(106.5 75.0999755859375)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 20px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">The Changes in E</tspan><tspan x="151.3369140625" y="0" style="letter-spacing: -.0239990234375em;">x</tspan><tspan x="161.73681640625" y="0">e</tspan><tspan x="170.716796875" y="0" style="letter-spacing: -.010986328125em;">r</tspan><tspan x="179.2568359375" y="0">cises Minutes of </tspan><tspan x="323.7138671875" y="0" style="letter-spacing: -.019970703125em;">H</tspan><tspan x="337.7744140625" y="0">ong </tspan><tspan x="374.953125" y="0" style="letter-spacing: -.035986328125em;">K</tspan><tspan x="388.2734375" y="0">onge</tspan><tspan x="428.5927734375" y="0" style="letter-spacing: -.00400390625em;">r</tspan><tspan x="437.2724609375" y="0">s</tspan></text>
+    </g>
+    <g style="isolation: isolate;">
+      <text transform="translate(106.5 99.0999755859375)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 20px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0" style="letter-spacing: -.0169921875em;">A</tspan><tspan x="12.83984375" y="0">c</tspan><tspan x="21.5595703125" y="0" style="letter-spacing: -.006982421875em;">r</tspan><tspan x="30.1796875" y="0">oss Di</tspan><tspan x="83.1591796875" y="0" style="letter-spacing: -.008984375em;">ff</tspan><tspan x="96.05908203125" y="0">e</tspan><tspan x="105.0390625" y="0" style="letter-spacing: -.006982421875em;">r</tspan><tspan x="113.6591796875" y="0" style="letter-spacing: -.0000244140625em;">ent </tspan><tspan x="146.7783203125" y="0" style="letter-spacing: -.010009765625em;">A</tspan><tspan x="159.75830078125" y="0">ge G</tspan><tspan x="197.99755859375" y="0" style="letter-spacing: -.0070068359375em;">r</tspan><tspan x="206.6171875" y="0" style="letter-spacing: .0000244140625em;">oups in 7 </tspan><tspan x="292.65576171875" y="0" style="letter-spacing: -.0929443359375em;">Y</tspan><tspan x="302.9765625" y="0">ea</tspan><tspan x="321.1552734375" y="0" style="letter-spacing: -.003955078125em;">r</tspan><tspan x="329.8359375" y="0">s</tspan></text>
+    </g>
+  </g>
+  <g style="isolation: isolate;">
+    <g style="isolation: isolate;">
+      <text transform="translate(106.699996948242188 716.20001220703125)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 13px; isolation: isolate;"><tspan x="0" y="0">Sou</tspan><tspan x="19.35693359375" y="0" style="letter-spacing: -.008000300480769em;">r</tspan><tspan x="24.11474609375" y="0">ce: </tspan><tspan x="41.58642578125" y="0" style="letter-spacing: -.011005108173077em;">R</tspan><tspan x="49.3212890625" y="0">eports of </tspan><tspan x="99.13623046875" y="0" style="letter-spacing: -.032038762019231em;">P</tspan><tspan x="105.6748046875" y="0">opulation </tspan><tspan x="158.1943359375" y="0" style="letter-spacing: -.02001953125em;">H</tspan><tspan x="167.13818359375" y="0">ealth </tspan><tspan x="195.5556640625" y="0" style="letter-spacing: -.004995492788462em;">S</tspan><tspan x="201.86083984375" y="0">ur</tspan><tspan x="213.24853515625" y="0" style="letter-spacing: -.012995793269231em;">v</tspan><tspan x="219.07275390625" y="0">ey 2020-22 and 2014-15, issued </tspan><tspan x="394.5703125" y="0" style="letter-spacing: -.009014423076923em;">b</tspan><tspan x="400.771484375" y="0">y the Department of </tspan><tspan x="509.541015625" y="0" style="letter-spacing: -.020057091346154em;">H</tspan><tspan x="518.484375" y="0">ealth</tspan></text>
+    </g>
+  </g>
+</svg>

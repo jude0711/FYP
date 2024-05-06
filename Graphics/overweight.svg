@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Overweight" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 805 600">
+  <defs>
+    <style>
+      .OW1 {
+        font-size: 28.8px;
+      }
+
+      .OW1, .OW2, .OW3, .OW4, .OW5 {
+        font-family: Amiri-Bold, Amiri;
+        font-weight: 700;
+      }
+
+      .OW1, .OW3, .OW6 {
+        fill: #000;
+      }
+
+      .OW7, .OW8 {
+        stroke: #000;
+      }
+
+      .OW7, .OW8, .OW9, .OW10 {
+        fill: none;
+      }
+
+      .OW7, .OW10 {
+        stroke-width: .9px;
+      }
+
+      .OW2 {
+        font-size: 12px;
+      }
+
+      .OW2, .OW3, .OW6 {
+        isolation: isolate;
+      }
+
+      .OW2, .OW5 {
+        fill: #bc1b3a;
+      }
+
+      .OW8 {
+        opacity: .5;
+        stroke-dasharray: 0 0 0 0 0 0 3 2 0 0 0 0;
+      }
+
+      .OW8, .OW9 {
+        stroke-miterlimit: 10;
+      }
+
+      .OW11 {
+        fill: #636363;
+        font-size: 13px;
+      }
+
+      .OW11, .OW6 {
+        font-family: Amiri-Regular, Amiri;
+      }
+
+      .OW3 {
+        font-size: 20px;
+      }
+
+      .OW9 {
+        stroke: #78a591;
+        stroke-width: 1.8px;
+      }
+
+      .OW4 {
+        fill: #454545;
+        font-size: 16px;
+      }
+
+      .OW10 {
+        stroke: #ab5555;
+      }
+
+      .OW5 {
+        font-size: 14px;
+      }
+
+      .OW6 {
+        font-size: 13.4px;
+      }
+
+      .OW12, .OW13 {
+        opacity: .5;
+      }
+
+      .OW14 {
+        fill: #78a591;
+        opacity: .6;
+      }
+
+      .OW14, .OW13, .OW15, .OW16 {
+        stroke-width: 0px;
+      }
+
+      .OW13 {
+        fill: #838391;
+      }
+
+      .OW15 {
+        fill: #ab5555;
+        opacity: .5;
+      }
+
+      .OW16 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="background" class="OW16" y="-1" width="805" height="600"/>
+  <g id="area">
+    <path class="OW15" d="M73.2,87.6h49.8c49.8,0,149.5,0,259.2,0,109.7,0,229.3,0,289.1,0h59.8v115.9l-59.8-3.8c-59.8-3.8-179.4-11.5-289.1-18.2-109.7-6.7-209.3-12.6-259.2-15.5l-49.8-2.9v-75.5Z"/>
+    <path class="OW13" d="M73.2,465.5l49.8,5.9c49.8,5.9,149.5,17.8,259.2,22.7,109.7,4.9,229.3,2.9,289.1,1.9l59.8-1v25.1H73.2v-54.6Z"/>
+    <path class="OW14" d="M73.2,163.2l49.8,2.9c49.8,2.9,149.5,8.7,259.2,15.5,109.7,6.7,229.3,14.4,289.1,18.2l59.8,3.8v291.4l-59.8,1c-59.8,1-179.4,3-289.1-1.9-109.7-4.9-209.3-16.8-259.2-22.7l-49.8-5.9V163.2Z"/>
+    <path class="OW10" d="M731.8,203.6l-59.8-3.8c-59.8-3.8-179.4-11.5-289.1-18.2-109.7-6.7-209.3-12.6-259.2-15.5l-49.8-2.9"/>
+    <path class="OW9" d="M73.2,465.5s31.9,5.4,36.8,5.9l28.4,1.8,80,9.7,48.2,3.8,47.2,3.7,130.9,5.2,9.8.4h153.1l80.4-.3,43.2-.7"/>
+  </g>
+  <g id="axis5">
+    <line class="OW7" x1="73.2" y1="520.1" x2="73.2" y2="525.5"/>
+    <text class="OW6" transform="translate(60 538.4)"><tspan x="0" y="0">2010</tspan></text>
+    <line class="OW7" x1="372.3" y1="520.1" x2="372.3" y2="525.5"/>
+    <text class="OW6" transform="translate(359.1 538.4)"><tspan x="0" y="0">2015</tspan></text>
+    <line class="OW7" x1="731.2" y1="520.1" x2="731.2" y2="525.5"/>
+    <text class="OW6" transform="translate(717.9 538.4)"><tspan x="0" y="0">2021</tspan></text>
+    <text class="OW2" transform="translate(744.4 564.9)"><tspan x="0" y="0">Year</tspan></text>
+    <line class="OW8" x1="372.3" y1="520.1" x2="372.3" y2="87.9"/>
+    <text class="OW6" transform="translate(643.5 555.9)"><tspan x="0" y="0">COVID</tspan></text>
+    <text class="OW6" transform="translate(648.9 539.2)"><tspan x="0" y="0">2020</tspan></text>
+    <line class="OW7" x1="662.1" y1="520.8" x2="662.1" y2="526.2"/>
+    <text class="OW5" transform="translate(42.5 89.6)"><tspan x="0" y="0">%</tspan></text>
+  </g>
+  <text class="OW3" transform="translate(53.3 53.5)"><tspan x="0" y="0">The Changes in Weight Status of Hong Kong Secondary Students Over Time </tspan></text>
+  <g id="bgnote">
+    <g class="OW12">
+      <text class="OW1" transform="translate(518.4 139.3)"><tspan x="0" y="0">Overweight</tspan></text>
+    </g>
+    <g class="OW12">
+      <text class="OW1" transform="translate(402.2 330.2)"><tspan x="0" y="0">Normal</tspan></text>
+    </g>
+    <g class="OW12">
+      <text class="OW1" transform="translate(132.7 509.8)"><tspan x="0" y="0">Underweight</tspan></text>
+    </g>
+  </g>
+  <g id="notess">
+    <text class="OW4" transform="translate(91.6 125.3)"><tspan x="0" y="0">17.5</tspan></text>
+    <text class="OW4" transform="translate(392.2 138.8)"><tspan x="0" y="0">21.5</tspan></text>
+    <text class="OW4" transform="translate(686.3 147.6)"><tspan x="0" y="0">26.8</tspan></text>
+    <text class="OW4" transform="translate(90.5 330.5)"><tspan x="0" y="0">69.9</tspan></text>
+    <text class="OW4" transform="translate(393.4 354.5)"><tspan x="0" y="0">74.1</tspan></text>
+    <text class="OW4" transform="translate(687.2 354.5)"><tspan x="0" y="0">67.4</tspan></text>
+    <text class="OW4" transform="translate(90.5 502)"><tspan x="0" y="0">12.6</tspan></text>
+    <text class="OW4" transform="translate(393 512.9)"><tspan x="0" y="0">4.4</tspan></text>
+    <text class="OW4" transform="translate(688 512.9)"><tspan x="0" y="0">5.8</tspan></text>
+  </g>
+  <text class="OW11" transform="translate(44.1 582.4)"><tspan x="0" y="0">Source: Survey on Physical Fitness of Hong Kong Secondary School Students 2019/20 and 2020/21, issued by the Education Bureau.</tspan></text>
+</svg>

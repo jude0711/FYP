@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Cyril Cal" data-name="Cyril Cal" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 805 600">
+  <defs>
+    <style>
+      .CCC1, .CCC2, .CCC3, .CCC4, .CCC5, .CCC6 {
+        font-family: Amiri-Bold, Amiri;
+        font-weight: 700;
+      }
+
+      .CCC1, .CCC4 {
+        font-size: 11.2px;
+      }
+
+      .CCC1, .CCC5, .CCC6 {
+        fill: #bc1b3a;
+      }
+
+      .CCC2 {
+        font-size: 18.7px;
+      }
+
+      .CCC2, .CCC7, .CCC8 {
+        fill: #000;
+      }
+
+      .CCC9 {
+        fill: #636363;
+        font-size: 14.3px;
+      }
+
+      .CCC9, .CCC7, .CCC8 {
+        font-family: Amiri-Regular, Amiri;
+      }
+
+      .CCC10 {
+        stroke: #d1d1d1;
+        stroke-width: .5px;
+      }
+
+      .CCC10, .CCC11, .CCC12, .CCC13, .CCC14 {
+        fill: none;
+      }
+
+      .CCC10, .CCC12 {
+        stroke-miterlimit: 10;
+      }
+
+      .CCC15 {
+        fill: #ab5555;
+        opacity: .2;
+        stroke-width: 0px;
+      }
+
+      .CCC11, .CCC12 {
+        stroke: #bc1b3a;
+      }
+
+      .CCC11, .CCC13 {
+        stroke-width: 2px;
+      }
+
+      .CCC12 {
+        stroke-width: 1px;
+      }
+
+      .CCC3 {
+        fill: #333;
+      }
+
+      .CCC3, .CCC6 {
+        font-size: 10.2px;
+      }
+
+      .CCC3, .CCC8 {
+        isolation: isolate;
+      }
+
+      .CCC13, .CCC14 {
+        stroke: #919191;
+      }
+
+      .CCC7, .CCC8 {
+        font-size: 13.3px;
+      }
+
+      .CCC14 {
+        stroke-dasharray: 0 0 0 0 0 0 3.1 2 0 0 0 0;
+        stroke-width: .8px;
+      }
+
+      .CCC4 {
+        fill: #919191;
+      }
+
+      .CCC5 {
+        font-size: 12.3px;
+      }
+    </style>
+  </defs>
+  <g>
+    <g id="grillll">
+      <line class="CCC10" x1="101.6" y1="134.4" x2="726.8" y2="134.4"/>
+      <line class="CCC10" x1="102.1" y1="214.8" x2="727.4" y2="214.8"/>
+      <line class="CCC10" x1="102.1" y1="297.7" x2="727.4" y2="297.7"/>
+      <line class="CCC10" x1="101.1" y1="377.7" x2="726.3" y2="377.7"/>
+      <line class="CCC10" x1="101.6" y1="461.8" x2="726.8" y2="461.8"/>
+    </g>
+    <g id="axisssss">
+      <g id="Xaxiss">
+        <text class="CCC7" transform="translate(84.6 565.4)"><tspan x="0" y="0">6</tspan></text>
+        <text class="CCC7" transform="translate(128.9 565.4)"><tspan x="0" y="0">7</tspan></text>
+        <text class="CCC7" transform="translate(173.3 565.4)"><tspan x="0" y="0">8</tspan></text>
+        <text class="CCC7" transform="translate(217.7 565.4)"><tspan x="0" y="0">9</tspan></text>
+        <text class="CCC7" transform="translate(259.6 565.4)"><tspan x="0" y="0">10</tspan></text>
+        <text class="CCC7" transform="translate(304.2 565.4)"><tspan x="0" y="0">11</tspan></text>
+        <text class="CCC7" transform="translate(348.3 565.4)"><tspan x="0" y="0">12</tspan></text>
+        <text class="CCC7" transform="translate(392.6 565.4)"><tspan x="0" y="0">13</tspan></text>
+        <text class="CCC7" transform="translate(437 565.4)"><tspan x="0" y="0">14</tspan></text>
+        <text class="CCC7" transform="translate(481.4 565.4)"><tspan x="0" y="0">15</tspan></text>
+        <text class="CCC7" transform="translate(525.7 565.4)"><tspan x="0" y="0">16</tspan></text>
+        <text class="CCC7" transform="translate(570.1 565.4)"><tspan x="0" y="0">17</tspan></text>
+        <text class="CCC7" transform="translate(614.5 565.4)"><tspan x="0" y="0">18</tspan></text>
+        <text class="CCC7" transform="translate(658.8 565.4)"><tspan x="0" y="0">19</tspan></text>
+        <text class="CCC7" transform="translate(703.2 565.4)"><tspan x="0" y="0">20</tspan></text>
+        <text class="CCC5" transform="translate(716.7 584.1)"><tspan x="0" y="0">Time</tspan></text>
+      </g>
+      <g id="Yaxiss">
+        <text class="CCC7" transform="translate(69.6 546.8)"><tspan x="0" y="0">0</tspan></text>
+        <text class="CCC7" transform="translate(64.7 505.9)"><tspan x="0" y="0">10</tspan></text>
+        <text class="CCC7" transform="translate(64.7 466.1)"><tspan x="0" y="0">20</tspan></text>
+        <text class="CCC7" transform="translate(64.7 424.2)"><tspan x="0" y="0">30</tspan></text>
+        <text class="CCC7" transform="translate(64.7 383.4)"><tspan x="0" y="0">40</tspan></text>
+        <text class="CCC7" transform="translate(64.7 342.5)"><tspan x="0" y="0">50</tspan></text>
+        <text class="CCC7" transform="translate(64.7 301.7)"><tspan x="0" y="0">60</tspan></text>
+        <text class="CCC8" transform="translate(64.7 260.8)"><tspan x="0" y="0">70</tspan></text>
+        <text class="CCC7" transform="translate(64.7 220)"><tspan x="0" y="0">80</tspan></text>
+        <text class="CCC7" transform="translate(64.7 179.1)"><tspan x="0" y="0">90</tspan></text>
+        <text class="CCC7" transform="translate(59.7 138.3)"><tspan x="0" y="0">100</tspan></text>
+        <text class="CCC7" transform="translate(59.5 97.4)"><tspan x="0" y="0">110</tspan></text>
+        <text class="CCC5" transform="translate(34 65.3)"><tspan x="0" y="0">Calories</tspan></text>
+      </g>
+    </g>
+    <g id="viz">
+      <g id="No">
+        <path class="CCC13" d="M89.7,537s29.6-187.9,44.4-216.1c14.8-28.2,29.6,32.8,44.4,47,14.8,14.2,29.6,23.4,44.4,38,14.8,14.6,29.6,54.1,44.4,49.4,14.8-4.7,29.6-71.7,44.4-77.6,14.8-5.9,29.6,70.1,44.4,42.1,14.8-28.1,29.6-215.7,44.4-210.4,14.8,5.3,29.6,199.6,44.4,242.2,14.8,42.6,29.6,43,44.4,13.5,14.8-29.5,29.6-198,44.4-190.4s29.6,215.5,44.4,236.1c14.8,20.6,29.6-109.4,44.4-112.3,14.8-2.9,29.6,85.5,44.4,94.8,14.8,9.3,44.4-39.2,44.4-39.2"/>
+        <text class="CCC3" transform="translate(723.2 458.2)"><tspan x="0" y="0">Without PE class</tspan></text>
+      </g>
+      <g id="Yes">
+        <path class="CCC11" d="M89.7,524.3s29.6-247.2,44.4-262.3c14.8-15,29.6,152.6,44.4,172,14.8,19.3,29.6-53,44.4-56,14.8-2.9,29.6,30.6,44.4,38.4,14.8,7.8,29.6,33.7,44.4,8.2,14.8-25.5,29.6-109.1,44.4-161.4,14.8-52.3,29.6-156.6,44.4-152.4,14.8,4.2,29.6,148.1,44.4,177.7,14.8,29.6,29.6-16.9,44.4,0,14.8,16.9,29.6,79.5,44.4,101.3,14.8,21.9,29.6,25.3,44.4,29.8,14.8,4.5,29.6,15.5,44.4-2.9,14.8-18.4,29.6-108.5,44.4-107.4,14.8,1,44.4,113.6,44.4,113.6"/>
+        <text class="CCC6" transform="translate(721.7 420.8)"><tspan x="0" y="0">With PE class</tspan></text>
+      </g>
+    </g>
+    <g id="Notessss">
+      <line class="CCC14" x1="177.3" y1="89" x2="177.3" y2="537"/>
+      <text class="CCC3" transform="translate(148.8 78)"><tspan x="0" y="0">Classes Begin</tspan></text>
+      <line class="CCC14" x1="400.3" y1="93.6" x2="400.3" y2="541.5"/>
+      <text class="CCC3" transform="translate(371 78)"><tspan x="0" y="0">Lunch Break</tspan></text>
+      <line class="CCC14" x1="532.4" y1="97.5" x2="532.4" y2="545.4"/>
+      <text class="CCC3" transform="translate(506 78.1)"><tspan x="0" y="0">Classes End</tspan></text>
+      <rect class="CCC15" x="101.1" y="214.8" width="76.2" height="175.2"/>
+      <rect class="CCC15" x="351.4" y="91.5" width="96.1" height="242.6"/>
+      <text class="CCC1" transform="translate(350.9 102.8)"><tspan x="0" y="0">Going out for lunch</tspan></text>
+      <text class="CCC1" transform="translate(447.8 252.2)"><tspan x="0" y="0">PE Class</tspan></text>
+      <polyline class="CCC12" points="453.3 274.7 453.3 267.4 465.2 267.4 469 263.3 473.6 267.9 485.4 267.9 485.4 274.7"/>
+      <text class="CCC1" transform="translate(638.9 295.4)"><tspan x="0" y="0">Commuting</tspan></text>
+      <text class="CCC4" transform="translate(504.3 265.9)"><tspan x="0" y="0">Commuting</tspan></text>
+      <text class="CCC1" transform="translate(109.4 227.3)"><tspan x="0" y="0">Commuting</tspan></text>
+    </g>
+  </g>
+  <text class="CCC2" transform="translate(34.5 24.2)"><tspan x="0" y="0">Cyril Cheng&apos;s Active Energy Expenditure on Two School Days: With and Without PE Class</tspan></text>
+  <text class="CCC9" transform="translate(34.5 595.1)"><tspan x="0" y="0">Source: Data from Apple Health.</tspan></text>
+</svg>

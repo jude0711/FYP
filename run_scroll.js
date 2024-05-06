@@ -82,20 +82,20 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
   tl.to(".cls-1",{
     toggleClass: "visible",
-    duration: 8, // Duration of the animation
+    duration: 2, // Duration of the animation
     opacity: 1, // Change opacity to reveal the element
   })
 
   tl.to(".cls-19",{
     toggleClass: "visible",
-    duration: 8, // Duration of the animation
+    duration: 2, // Duration of the animation
     opacity: 1, // Change opacity to reveal the element
   })
 
   tl.to(
     ["#Layer_1", "#Layer_2", "#Layer_3", "#Layer_4", "#Layer_5"], // 添加多个元素
     {
-      duration: 15, // 持续时间
+      duration: 2, // 持续时间
       opacity: 0, // 目标透明度
     },
     // 时间轴上的位置，负值表示提前1秒
@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
   tl.to("#visualization",
     {
       toggleClass: "visible",
-      duration: 8, // 持续时间
+      duration: 2, // 持续时间
       opacity: 0.60, // 目标透明度
     },
     // 时间轴上的位置，负值表示提前1秒

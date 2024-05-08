@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="exercise_minutes" data-name="exercise minutes" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1005 739">
+  <defs>
+    <style>
+      .emm1 {
+        letter-spacing: -.019em;
+      }
+
+      .emm1, .emm2, .emm3, .emm4, .emm5, .emm6, .emm7, .emm8, .emm9, .emm10, .emm11, .emm12, .emm13, .emm14, .emm15, .emm16, .emm17, .emm18, .emm19, .emm20, .emm21, .emm22 {
+        isolation: isolate;
+      }
+
+      .emm1, .emm2, .emm6, .emm8, .emm9, .emm10, .emm12, .emm13, .emm14, .emm16, .emm19, .emm21 {
+        font-family: Amiri-Bold, Amiri;
+        font-weight: 700;
+      }
+
+      .emm1, .emm8, .emm9, .emm10, .emm13, .emm14, .emm21, .emm22 {
+        fill: #000;
+      }
+
+      .emm1, .emm8, .emm9, .emm10, .emm13, .emm21 {
+        font-size: 20px;
+      }
+
+      .emm2 {
+        fill: #303030;
+      }
+
+      .emm2, .emm6, .emm16, .emm19 {
+        font-size: 12px;
+      }
+
+      .emm23 {
+        opacity: .19;
+      }
+
+      .emm23, .emm6, .emm7, .emm24, .emm25, .emm16, .emm19 {
+        fill: #bc1b3a;
+      }
+
+      .emm23, .emm26, .emm25, .emm27 {
+        stroke-width: 0px;
+      }
+
+      .emm3 {
+        letter-spacing: -.01em;
+      }
+
+      .emm3, .emm4, .emm5, .emm7, .emm11, .emm15, .emm28, .emm18, .emm20, .emm22 {
+        font-family: Amiri-Regular, Amiri;
+      }
+
+      .emm3, .emm5, .emm11, .emm15, .emm18 {
+        fill: #636363;
+        font-size: 13px;
+      }
+
+      .emm4, .emm20 {
+        fill: #1a1a1a;
+      }
+
+      .emm4, .emm20, .emm22 {
+        font-size: 15px;
+      }
+
+      .emm5 {
+        letter-spacing: -.02em;
+      }
+
+      .emm7, .emm28 {
+        font-size: 18px;
+      }
+
+      .emm29, .emm30 {
+        stroke: #e6e6e6;
+      }
+
+      .emm29, .emm30, .emm31 {
+        fill: none;
+      }
+
+      .emm29, .emm31 {
+        stroke-width: .8px;
+      }
+
+      .emm9 {
+        letter-spacing: -.009em;
+      }
+
+      .emm10 {
+        letter-spacing: -.009em;
+      }
+
+      .emm11 {
+        letter-spacing: -.01em;
+      }
+
+      .emm24 {
+        stroke: #bc1b3a;
+      }
+
+      .emm24, .emm31 {
+        stroke-miterlimit: 10;
+      }
+
+      .emm26, .emm28 {
+        fill: #8a8a8a;
+      }
+
+      .emm12 {
+        fill: #6e6e6e;
+      }
+
+      .emm12, .emm14 {
+        font-size: 14px;
+      }
+
+      .emm13 {
+        letter-spacing: -.039em;
+      }
+
+      .emm16 {
+        letter-spacing: -.01em;
+      }
+
+      .emm18 {
+        letter-spacing: -.03em;
+      }
+
+      .emm19 {
+        letter-spacing: -.02em;
+      }
+
+      .emm27 {
+        fill: #fff;
+      }
+
+      .emm31 {
+        stroke: #000;
+      }
+
+      .emm20 {
+        letter-spacing: -.009em;
+      }
+
+      .emm21 {
+        letter-spacing: -.09em;
+      }
+    </style>
+  </defs>
+  <rect id="background" class="emm27" width="1005" height="739"/>
+  <g id="viz2">
+    <g id="axis">
+      <g id="Grilllllll">
+        <line class="emm30" x1="177" y1="157.6" x2="177" y2="660.5"/>
+        <line class="emm30" x1="265.1" y1="159.6" x2="265.1" y2="662.5"/>
+        <line class="emm30" x1="353.2" y1="159.6" x2="353.2" y2="662.5"/>
+        <line class="emm30" x1="441.4" y1="159.6" x2="441.4" y2="662.5"/>
+        <line class="emm30" x1="529.5" y1="159.6" x2="529.5" y2="662.5"/>
+        <line class="emm30" x1="617.6" y1="159.6" x2="617.6" y2="662.5"/>
+        <line class="emm30" x1="705.7" y1="159.6" x2="705.7" y2="662.5"/>
+        <line class="emm29" x1="793.8" y1="159.6" x2="793.8" y2="662.5"/>
+        <line class="emm30" x1="882" y1="159.6" x2="882" y2="662.5"/>
+      </g>
+      <g id="Wordssss">
+        <g>
+          <text class="emm6" transform="translate(854.5 700.9)"><tspan x="0" y="0">E</tspan></text>
+          <text class="emm19" transform="translate(861.54 700.9)"><tspan x="0" y="0">x</tspan></text>
+          <text class="emm6" transform="translate(867.78 700.9)"><tspan x="0" y="0">e</tspan></text>
+          <text class="emm16" transform="translate(873.17 700.9)"><tspan x="0" y="0">r</tspan></text>
+          <text class="emm6" transform="translate(878.3 700.9)"><tspan x="0" y="0">cise Minute</tspan></text>
+          <text class="emm4" transform="translate(98.6 630.399)"><tspan x="0" y="0">O</tspan></text>
+          <text class="emm20" transform="translate(109.55 630.399)"><tspan x="0" y="0">v</tspan></text>
+          <text class="emm4" transform="translate(116.27 630.399)"><tspan x="0" y="0">erall</tspan></text>
+          <text class="emm4" transform="translate(89.2 575.399)"><tspan x="0" y="0">85 ab</tspan></text>
+          <text class="emm20" transform="translate(123.13 575.399)"><tspan x="0" y="0">o</tspan></text>
+          <text class="emm20" transform="translate(130.42 575.399)"><tspan x="0" y="0">v</tspan></text>
+          <text class="emm4" transform="translate(137.14 575.399)"><tspan x="0" y="0">e</tspan></text>
+          <text class="emm22" transform="translate(171.3 679.8)"><tspan x="0" y="0">40</tspan></text>
+          <text class="emm22" transform="translate(259.5 679.8)"><tspan x="0" y="0">50</tspan></text>
+          <text class="emm22" transform="translate(347.6 679.8)"><tspan x="0" y="0">60</tspan></text>
+          <text class="emm22" transform="translate(435.7 679.8)"><tspan x="0" y="0">70</tspan></text>
+          <text class="emm22" transform="translate(523.8 679.8)"><tspan x="0" y="0">80</tspan></text>
+          <text class="emm22" transform="translate(612 679.8)"><tspan x="0" y="0">90</tspan></text>
+          <text class="emm22" transform="translate(697.3 679.8)"><tspan x="0" y="0">100</tspan></text>
+          <text class="emm22" transform="translate(785.8 679.8)"><tspan x="0" y="0">110</tspan></text>
+          <text class="emm22" transform="translate(873.5 679.8)"><tspan x="0" y="0">120</tspan></text>
+          <text class="emm4" transform="translate(104.7 520.399)"><tspan x="0" y="0">75-84</tspan></text>
+          <text class="emm4" transform="translate(104.7 465.399)"><tspan x="0" y="0">65-74</tspan></text>
+          <text class="emm4" transform="translate(104.7 410.399)"><tspan x="0" y="0">55-64</tspan></text>
+          <text class="emm4" transform="translate(104.7 355.399)"><tspan x="0" y="0">45-54</tspan></text>
+          <text class="emm4" transform="translate(104.7 300.399)"><tspan x="0" y="0">35-44</tspan></text>
+          <text class="emm4" transform="translate(104.7 245.399)"><tspan x="0" y="0">25-34</tspan></text>
+          <text class="emm4" transform="translate(104.7 190.399)"><tspan x="0" y="0">15-24</tspan></text>
+          <text class="emm16" transform="translate(66.8 154.699)"><tspan x="0" y="0">A</tspan></text>
+          <text class="emm6" transform="translate(74.59 154.699)"><tspan x="0" y="0">ge G</tspan></text>
+          <text class="emm6" transform="translate(97.53 154.699)"><tspan x="0" y="0">r</tspan></text>
+          <text class="emm6" transform="translate(102.7 154.699)"><tspan x="0" y="0">oup</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text class="emm12" transform="translate(399 297)"><tspan x="0" y="0" xml:space="preserve">69.1   </tspan></text>
+    <text class="emm14" transform="translate(336.1 188.3)"><tspan x="0" y="0" xml:space="preserve">61.7   </tspan></text>
+    <text class="emm12" transform="translate(377.6 243.3)"><tspan x="0" y="0" xml:space="preserve">66.4   </tspan></text>
+    <text class="emm12" transform="translate(429.6 353.3)"><tspan x="0" y="0" xml:space="preserve">72.3   </tspan></text>
+    <text class="emm12" transform="translate(459.5 408.3)"><tspan x="0" y="0">75.7</tspan></text>
+    <text class="emm12" transform="translate(395.8 463.3)"><tspan x="0" y="0">68</tspan></text>
+    <text class="emm12" transform="translate(306.2 518.3)"><tspan x="0" y="0" xml:space="preserve">58.3   </tspan></text>
+    <text class="emm12" transform="translate(192.5 573.3)"><tspan x="0" y="0" xml:space="preserve">45.4  </tspan></text>
+    <text class="emm12" transform="translate(397 628.3)"><tspan x="0" y="0" xml:space="preserve">68.6   </tspan></text>
+  </g>
+  <g id="percentageee">
+    <text class="emm28" transform="translate(563.01 609.035)"><tspan x="0" y="0">-35.47%</tspan></text>
+    <text class="emm7" transform="translate(540.11 175.236)"><tspan x="0" y="0">-40.50%</tspan></text>
+    <text class="emm28" transform="translate(594.109 283.936)"><tspan x="0" y="0">-39.28%</tspan></text>
+    <text class="emm28" transform="translate(558.209 230.536)"><tspan x="0" y="0">-38.06%</tspan></text>
+    <text class="emm28" transform="translate(617.51 336.736)"><tspan x="0" y="0">-38.26%</tspan></text>
+    <text class="emm28" transform="translate(632.209 393.236)"><tspan x="0" y="0">-33.48%</tspan></text>
+    <text class="emm28" transform="translate(225.01 558.236)"><tspan x="0" y="0" xml:space="preserve"> -13.85%</tspan></text>
+    <text class="emm28" transform="translate(482.61 446.836)"><tspan x="0" y="0">-22.81%</tspan></text>
+    <text class="emm28" transform="translate(378.11 502.936)"><tspan x="0" y="0">-21.43%</tspan></text>
+  </g>
+  <g id="arrow2">
+    <polygon class="emm25" points="738.3 186.3 373.1 184.9 373.1 181 368.2 185.9 373.1 190.8 373.1 186.8 738.3 188.2 738.3 186.3"/>
+    <polygon class="emm26" points="769.2 241.9 414.5 240.6 414.5 236.7 409.6 241.5 414.5 246.5 414.5 242.5 769.2 243.9 769.2 241.9"/>
+    <polygon class="emm26" points="827.3 295.7 438.3 294.3 438.3 290.4 433.4 295.2 438.3 300.2 438.3 296.2 827.3 297.7 827.3 295.7"/>
+    <polygon class="emm26" points="856.9 351 467.8 349.6 467.9 345.6 463 350.5 467.8 355.4 467.8 351.5 856.9 352.9 856.9 351"/>
+    <polygon class="emm26" points="829 405.9 496.5 404.7 496.5 400.7 491.6 405.6 496.5 410.5 496.5 406.6 829 407.8 829 405.9"/>
+    <polygon class="emm26" points="601.3 460.5 426.4 460.1 426.4 456.2 421.5 461 426.4 465.9 426.4 462 601.3 462.4 601.3 460.5"/>
+    <polygon class="emm26" points="481.3 515.7 343.1 515.4 343.1 511.5 338.2 516.4 343.1 521.3 343.1 517.3 481.3 517.6 481.3 515.7"/>
+    <polygon class="emm26" points="763.3 625.7 433.9 625 433.9 621 429 625.9 433.9 630.8 433.9 626.9 763.3 627.6 763.3 625.7"/>
+    <polygon class="emm26" points="288.9 570.2 229.5 570.1 229.5 566.1 224.6 571 229.4 575.9 229.4 572 288.9 572.1 288.9 570.2"/>
+  </g>
+  <g id="dot">
+    <circle class="emm26" cx="854.5" cy="351.5" r="4.3"/>
+    <circle class="emm26" cx="828" cy="406.9" r="4.3"/>
+    <circle class="emm26" cx="828" cy="296.7" r="4.3"/>
+    <circle class="emm26" cx="769" cy="243.9" r="4.3"/>
+    <circle class="emm24" cx="738.1" cy="187.4" r="4.3"/>
+    <circle class="emm26" cx="602.4" cy="461.5" r="4.3"/>
+    <circle class="emm26" cx="482.3" cy="516.7" r="4.3"/>
+    <circle class="emm26" cx="289.2" cy="572" r="4.3"/>
+    <circle class="emm26" cx="764.8" cy="626.7" r="4.3"/>
+  </g>
+  <g id="year2">
+    <line class="emm31" x1="738.3" y1="144.2" x2="738.3" y2="178.8"/>
+    <line class="emm31" x1="371.5" y1="143.5" x2="371.5" y2="178.2"/>
+    <text class="emm2" transform="translate(718.7 138.2)"><tspan x="0" y="0">2014/15</tspan></text>
+    <text class="emm2" transform="translate(348 137)"><tspan x="0" y="0">2020/22</tspan></text>
+  </g>
+  <g class="emm17">
+    <g class="emm17">
+      <g class="emm17">
+        <text class="emm8" transform="translate(106.5 75.1)"><tspan x="0" y="0">The Changes in E</tspan></text>
+        <text class="emm1" transform="translate(257.84 75.1)"><tspan x="0" y="0">x</tspan></text>
+        <text class="emm8" transform="translate(268.24 75.1)"><tspan x="0" y="0">e</tspan></text>
+        <text class="emm10" transform="translate(277.22 75.1)"><tspan x="0" y="0">r</tspan></text>
+        <text class="emm8" transform="translate(285.76 75.1)"><tspan x="0" y="0">cises Minutes of </tspan></text>
+        <text class="emm1" transform="translate(430.21 75.1)"><tspan x="0" y="0">H</tspan></text>
+        <text class="emm8" transform="translate(444.27 75.1)"><tspan x="0" y="0">ong </tspan></text>
+        <text class="emm13" transform="translate(481.45 75.1)"><tspan x="0" y="0">K</tspan></text>
+        <text class="emm8" transform="translate(494.77 75.1)"><tspan x="0" y="0">onge</tspan></text>
+        <text class="emm8" transform="translate(535.09 75.1)"><tspan x="0" y="0">r</tspan></text>
+        <text class="emm8" transform="translate(543.77 75.1)"><tspan x="0" y="0">s</tspan></text>
+      </g>
+    </g>
+    <g class="emm17">
+      <g class="emm17">
+        <text class="emm1" transform="translate(106.5 99.1)"><tspan x="0" y="0">A</tspan></text>
+        <text class="emm8" transform="translate(119.34 99.1)"><tspan x="0" y="0">c</tspan></text>
+        <text class="emm8" transform="translate(128.06 99.1)"><tspan x="0" y="0">r</tspan></text>
+        <text class="emm8" transform="translate(136.68 99.1)"><tspan x="0" y="0">oss Di</tspan></text>
+        <text class="emm8" transform="translate(189.66 99.1)"><tspan x="0" y="0">ff</tspan></text>
+        <text class="emm8" transform="translate(202.56 99.1)"><tspan x="0" y="0">e</tspan></text>
+        <text class="emm8" transform="translate(211.54 99.1)"><tspan x="0" y="0">r</tspan></text>
+        <text class="emm8" transform="translate(220.16 99.1)"><tspan x="0" y="0">ent </tspan></text>
+        <text class="emm9" transform="translate(253.28 99.1)"><tspan x="0" y="0">A</tspan></text>
+        <text class="emm8" transform="translate(266.26 99.1)"><tspan x="0" y="0">ge G</tspan></text>
+        <text class="emm8" transform="translate(304.5 99.1)"><tspan x="0" y="0">r</tspan></text>
+        <text class="emm8" transform="translate(313.12 99.1)"><tspan x="0" y="0">oups in 7 </tspan></text>
+        <text class="emm21" transform="translate(399.16 99.1)"><tspan x="0" y="0">Y</tspan></text>
+        <text class="emm8" transform="translate(409.48 99.1)"><tspan x="0" y="0">ea</tspan></text>
+        <text class="emm8" transform="translate(427.66 99.1)"><tspan x="0" y="0">r</tspan></text>
+        <text class="emm8" transform="translate(436.34 99.1)"><tspan x="0" y="0">s</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="emm17">
+    <g class="emm17">
+      <g class="emm17">
+        <text class="emm15" transform="translate(106.7 716.2)"><tspan x="0" y="0">Sou</tspan></text>
+        <text class="emm15" transform="translate(126.06 716.2)"><tspan x="0" y="0">r</tspan></text>
+        <text class="emm15" transform="translate(130.81 716.2)"><tspan x="0" y="0">ce: </tspan></text>
+        <text class="emm11" transform="translate(148.29 716.2)"><tspan x="0" y="0">R</tspan></text>
+        <text class="emm15" transform="translate(156.02 716.2)"><tspan x="0" y="0">eports of </tspan></text>
+        <text class="emm18" transform="translate(205.84 716.2)"><tspan x="0" y="0">P</tspan></text>
+        <text class="emm15" transform="translate(212.37 716.2)"><tspan x="0" y="0">opulation </tspan></text>
+        <text class="emm5" transform="translate(264.89 716.2)"><tspan x="0" y="0">H</tspan></text>
+        <text class="emm15" transform="translate(273.84 716.2)"><tspan x="0" y="0">ealth </tspan></text>
+        <text class="emm15" transform="translate(302.26 716.2)"><tspan x="0" y="0">S</tspan></text>
+        <text class="emm15" transform="translate(308.56 716.2)"><tspan x="0" y="0">ur</tspan></text>
+        <text class="emm3" transform="translate(319.95 716.2)"><tspan x="0" y="0">v</tspan></text>
+        <text class="emm15" transform="translate(325.77 716.2)"><tspan x="0" y="0">ey 2020-22 and 2014-15, issued </tspan></text>
+        <text class="emm15" transform="translate(501.27 716.2)"><tspan x="0" y="0">b</tspan></text>
+        <text class="emm15" transform="translate(507.47 716.2)"><tspan x="0" y="0">y the Department of </tspan></text>
+        <text class="emm5" transform="translate(616.24 716.2)"><tspan x="0" y="0">H</tspan></text>
+        <text class="emm15" transform="translate(625.18 716.2)"><tspan x="0" y="0">ealth</tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect id="highlightttttt" class="emm23" x="90.43" y="159.079" width="820.483" height="47.314"/>
+</svg>

@@ -8,27 +8,27 @@ document.addEventListener("DOMContentLoaded", (event) => {
   // 为 pin 创建独立的 ScrollTrigger
   ScrollTrigger.create({
     trigger: "#opening_box",
-    start: "center 55%",
-    end: "bottom 30%",
+    start: "center 50%",
+    end: "bottom 10%",
     pin: true,
     scrub: true,
-    pinSpacing: false 
+    pinSpacing: true, 
     //markers: true,
   });
   
   //run time line
   let tl = gsap.timeline({
     scrollTrigger: {
-      trigger: "#mean1999", // 触发动画的元素
-      start: "top 50%", // 开始触发位置
-      end: "bottom 20%", // 结束触发位置
+      trigger: "#opening_box", // 触发动画的元素
+      start: "45% 50%", // 开始触发位置
+      end: "bottom 10%", // 结束触发位置
       scrub: 2, // 平滑动画
       //markers: true, // 显示调试标记
     },
   })
 
-  tl.to("#Layer_1", {
-    duration: 3, // 动画持续时间
+  tl.to("#BOYY1", {
+    duration: 5, // 动画持续时间
     motionPath: {
       path: "#path1", // 动画的 SVG 路径
       align: "#path1", // 对齐路径
@@ -38,8 +38,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
   },
   0);
 
-  tl.to("#Layer_2",{
-    duration: 3, // 动画持续时间
+  tl.to("#BOYY2",{
+    duration: 5, // 动画持续时间
     motionPath: {
       path: "#path2", // 动画的 SVG 路径
       align: "#path2", // 对齐路径
@@ -49,8 +49,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
   },
   0);
 
-  tl.to("#Layer_3",{
-    duration: 3, // 动画持续时间
+  tl.to("#BOYY3",{
+    duration: 5, // 动画持续时间
     motionPath: {
       path: "#path3", // 动画的 SVG 路径
       align: "#path3", // 对齐路径
@@ -60,8 +60,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
   },
   0);
 
-  tl.to("#Layer_4",{
-    duration: 3, // 动画持续时间
+  tl.to("#BOYY4",{
+    duration: 5, // 动画持续时间
     motionPath: {
       path: "#path4", // 动画的 SVG 路径
       align: "#path4", // 对齐路径
@@ -71,8 +71,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
   },
   0);
 
-  tl.to("#Layer_5",{
-    duration: 3, // 动画持续时间
+  tl.to("#BOYY5",{
+    duration: 5, // 动画持续时间
     motionPath: {
       path: "#path5", // 动画的 SVG 路径
       align: "#path5", // 对齐路径
@@ -83,32 +83,24 @@ document.addEventListener("DOMContentLoaded", (event) => {
   0);
 
 
-  tl.to(".cls-1",{
-    toggleClass: "visible",
-    duration: 8, // Duration of the animation
+  tl.to("#endpoints",{
+    toggleClass: "visi",
+    duration: 3, // Duration of the animation
     opacity: 1, // Change opacity to reveal the element
   })
 
-  tl.to(".cls-19",{
-    toggleClass: "visible",
-    duration: 8, // Duration of the animation
+  tl.to("#endpointnote",{
+    toggleClass: "visi",
+    duration: 3, // Duration of the animation
     opacity: 1, // Change opacity to reveal the element
   })
 
-  tl.to(
-    ["#Layer_1", "#Layer_2", "#Layer_3", "#Layer_4", "#Layer_5"], // 添加多个元素
-    {
-      duration: 15, // 持续时间
-      opacity: 0, // 目标透明度
-    },
-    // 时间轴上的位置，负值表示提前1秒
-  );
 
-  tl.to("#visualization",
+  tl.to("#GAppp",
     {
-      toggleClass: "visible",
-      duration: 8, // 持续时间
-      opacity: 0.60, // 目标透明度
+      toggleClass: "visi",
+      duration: 3, // 持续时间
+      opacity: 1, // 目标透明度
     },
     // 时间轴上的位置，负值表示提前1秒
   );
@@ -119,27 +111,27 @@ document.addEventListener("DOMContentLoaded", (event) => {
   //girl
   // 为 pin 创建独立的 ScrollTrigger
   ScrollTrigger.create({
-    trigger: "#girl_9minute_trigger",
-    start: "center 55%",
+    trigger: "#girlnew",
+    start: "45% 50%",
     end: "bottom 30%",
     pin: true,
     scrub: true,
     //markers: true,
-    pinSpacing: false 
+    pinSpacing: true 
   });
   
   //run time line
   let tl2 = gsap.timeline({
     scrollTrigger: {
-      trigger: "#girl_9minute_trigger", // 触发动画的元素
-      start: "40% 50%", // 开始触发位置
+      trigger: "#girlnew", // 触发动画的元素
+      start: "45% 50%", // 开始触发位置
       end: "80% 20%", // 结束触发位置
       scrub: 2, // 平滑动画
       //markers: true, // 显示调试标记
     },
   })
 
-  tl2.to("#girl_run", {
+  tl2.to("#GIRL1", {
     duration: 3, // 动画持续时间
     motionPath: {
       path: "#path1g", // 动画的 SVG 路径
@@ -150,7 +142,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
   },
   0);
 
-  tl2.to("#girl_run2",{
+  tl2.to("#GIRL2",{
     duration: 3, // 动画持续时间
     motionPath: {
       path: "#path2g", // 动画的 SVG 路径
@@ -161,7 +153,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
   },
   0);
 
-  tl2.to("#girl_run3",{
+  tl2.to("#GIRL3",{
     duration: 3, // 动画持续时间
     motionPath: {
       path: "#path3g", // 动画的 SVG 路径
@@ -172,7 +164,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
   },
   0);
 
-  tl2.to("#girl_run4",{
+  tl2.to("#GIRL4",{
     duration: 3, // 动画持续时间
     motionPath: {
       path: "#path4g", // 动画的 SVG 路径
@@ -183,7 +175,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
   },
   0);
 
-  tl2.to("#girl_run5",{
+  tl2.to("#GIRL5",{
     duration: 3, // 动画持续时间
     motionPath: {
       path: "#path5g", // 动画的 SVG 路径
@@ -194,30 +186,21 @@ document.addEventListener("DOMContentLoaded", (event) => {
   },
   0);
 
-  tl2.to(".mean_girl_9minute",{
-    toggleClass: "visible",
-    duration: 0.5, // Duration of the animation
+  tl2.to("#endpoints22",{
+    toggleClass: "visi",
+    duration: 3, // Duration of the animation
     opacity: 1, // Change opacity to reveal the element
   })
 
-  tl2.to(".girl_9minute_text",{
-    toggleClass: "visible",
-    duration: 0.5, // Duration of the animation
+  tl2.to("#endpointnotex",{
+    toggleClass: "visi",
+    duration: 3, // Duration of the animation
     opacity: 1, // Change opacity to reveal the element
   })
 
-  tl2.to(
-    ["#girl_run", "#girl_run2", "#girl_run3", "#girl_run4", "#girl_run5"], // 添加多个元素
+  tl2.to("#GApppx",
     {
-      duration: 1, // 持续时间
-      opacity: 0, // 目标透明度
-    },
-    // 时间轴上的位置，负值表示提前1秒
-  );
-
-  tl2.to("#visualization-2",
-    {
-      toggleClass: "visible",
+      toggleClass: "visi",
       duration: 2, // 持续时间
       opacity: 0.80, // 目标透明度
     },
@@ -238,13 +221,81 @@ document.addEventListener("DOMContentLoaded", (event) => {
   //exercise minute
   ScrollTrigger.create({
   trigger: "#exercise_minutes",
-  start: "center 55%",
-  end: "90% 1%",
+  start: "40% 50%",
+  end: "bottom 5%",
   pin: true,
   scrub: true,
   pinSpacing: false, 
-  markers: true,
+  //markers: true,
   });
+
+  let tl3 = gsap.timeline({
+    scrollTrigger: {
+      trigger: "#exercise_minutes", // 触发动画的元素
+      start: "40% 50%", // 开始触发位置
+      end: "90% 15%", // 结束触发位置
+      scrub: 2, // 平滑动画
+      //markers: true, // 显示调试标记
+    },
+  });
+
+
+  tl3.to("#highlightttttt",{
+    toggleClass: "visi",
+    duration: 3, // Duration of the animation
+    opacity: 0.3, // Change opacity to reveal the element
+  },
+  0);
+
+  tl3.to("#percentageee",{
+    toggleClass: "visi",
+    duration: 3, // Duration of the animation
+    opacity: 1,
+  },
+  0);
+
+  
+  tl3.add(() => {
+    const polygon = document.getElementById('1524arrow'); 
+    polygon.classList.remove('emm26'); 
+    polygon.classList.add('emm25');    
+  }, "0"); 
+  
+  tl3.add(() => {
+    const polygon = document.getElementById('1425dot'); 
+    polygon.classList.remove('emm26'); 
+    polygon.classList.add('emm24');    
+  }, "0"); 
+
+  
+  gsap.to("#floatingboynew_text", {
+  scrollTrigger: {
+    trigger: "#floatingboynew_text",
+    start: "top center",
+    end: "bottom 30%",
+    scrub: true,
+    markers: true
+  },
+  opacity:0
+});
+
+  
+
+
+  gsap.to("#CyrilEM", {
+  scrollTrigger: {
+    trigger: "#CyrilEM",
+    start: "top center",
+    end: "bottom top",
+    scrub: true,
+    markers: true
+  },
+  attr: { viewBox: "50 50 100 100" }, // 修改 viewBox 的值来"zoom in"
+  ease: "none"
+});
+
+
+
 
   
   

@@ -105,6 +105,7 @@ svg{
 }
 
 
+
 video {
   border-radius: 15px;
 
@@ -132,20 +133,71 @@ video {
   /* 鼠标悬停时显示手势 */
 }
 
+
+
+#newboy{
+  position: relative;
+  z-index: 1;
+}
+
+#floatingboynew_text{
+  background-color: #4e3c3c3c;
+}
+
+#floatingboynew{
+  position: relative;
+  z-index: 2;
+  /*background-color: #d7eaef54;*/
+  height:80vh;
+}
+
 .overlay_text{
   z-index: 2;
 }
 
-#hookstart{
-  height: 170vh;
-}
+/* #hookstart{
+  height: 200vh;
+} */
 
 #opening{
-  height: 180vh;
+  height: 100vh;
 }
 
-#exercise_minute_scroll {
+/* #exercise_minute_scroll {
   height: 250vh;
+} */
+
+
+
+#exercise_minutes{
+  width: 100%;
+  max-width: 900px;
+
+  height: auto;
+}
+
+#gca{
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+}
+
+#COVID{
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+}
+
+#Overweight{
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+}
+
+#open_image{
+  width: 100%;
+  max-width: 800px;
+  height: auto;
 }
 
 hr {
@@ -6215,6 +6267,10 @@ textarea.form-control-lg {
 
 .mt-5 {
   margin-top: 3rem !important; }
+
+.mt-6 {
+  margin-top: 6rem !important;
+}
 
 .mt-auto {
   margin-top: auto !important; }

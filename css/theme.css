@@ -106,31 +106,33 @@ svg{
 
 
 
-video {
-  border-radius: 15px;
-
+  video {
+  border-radius: 20px;
+    
   overflow: hidden;
+   
 
-}
+
+} 
 #topButton {
   position: fixed;
-  /* 使按钮固定 */
+
   bottom: 20px;
-  /* 距离底部 20px */
+
   right: 20px;
-  /* 距离右侧 20px */
-  background-color: #007BFF;
-  /* 按钮的背景色 */
+
+  background-color: #832d2f;
+
   color: white;
-  /* 按钮文字颜色 */
+
   border: none;
-  /* 无边框 */
+
   border-radius: 5px;
-  /* 边角圆润 */
+
   padding: 10px 20px;
-  /* 内边距 */
+
   cursor: pointer;
-  /* 鼠标悬停时显示手势 */
+
 }
 
 
@@ -141,15 +143,21 @@ video {
 }
 
 #floatingboynew_text{
-  background-color: #4e3c3c3c;
+  border-radius: 10px;
+  background-color: #ffffffac;
+  padding: 5px 5px;
 }
 
 #floatingboynew_text2{
-  background-color: #4e3c3c3c;
+  border-radius: 10px;
+  background-color: #ffffffac;
+  padding: 5px 5px;
 }
 
 #floatingboynew_text3{
-  background-color: #4e3c3c3c;
+  border-radius: 10px;
+  background-color: #ffffffac;
+  padding: 5px 5px;
     
 }
 
@@ -158,6 +166,13 @@ video {
   z-index: 2;
   /*background-color: #d7eaef54;*/
   height:90vh;
+}
+
+#floatingboynew1 {
+  position: relative;
+  z-index: 2;
+  /*background-color: #d7eaef54;*/
+  height: 80vh;
 }
 
 #compete{
@@ -171,11 +186,54 @@ video {
   position: relative;
   z-index: 1;
   opacity: 1;
+  width: 100%;
+  height: auto;
+  max-width: 950px;
 }
 
 .overlay_text{
   z-index: 2;
 }
+
+#opening_text{
+  font-weight: 200;
+  background-color: #fff3cd5c;
+  border-radius: 50px;
+
+  padding: 5px 10px;
+
+  display: inline-block;
+  filter: drop-shadow(0px 0px 10px rgb(255, 255, 255));
+}
+
+.end-section {
+  display: flex;
+  align-items: center;
+  /* 垂直居中 */
+  justify-content: center;
+  /* 水平居中 */
+  margin: 20px 0;
+  /* 加点外边距 */
+}
+
+.endline {
+  height: 1px;
+  width: 20%;
+  /* 线的宽度，根据需要调整 */
+  background-color: #000;
+  /* 线的颜色 */
+  margin: 0 10px;
+  /* 在文字和线之间添加一些空间 */
+}
+
+.end-text {
+  font-size: 16px;
+  /* 文本大小 */
+  font-weight: bold;
+  /* 加粗 */
+}
+
+
 
 /* #hookstart{
   height: 200vh;
@@ -220,7 +278,15 @@ video {
   width: 100%;
   max-width: 800px;
   height: auto;
+  border-radius: 50px;
+  filter: blur(1px);
 }
+
+.screenshot{
+  border-radius: 10px;
+}
+
+
 
 #Cyril_Cal{
   width: 100%;
@@ -248,6 +314,99 @@ video {
   width: 100%;
   max-width: 750px;
   height: auto;
+}
+
+#HonImg{
+  border-radius: 30px;
+}
+
+#Jockey1{
+  border-radius: 30px;
+  width: 100%;
+  height: auto;
+  max-width: 600px;
+}
+
+
+.navbar2 {
+  position: fixed;
+  width: 200px;
+  /* 固定侧边栏宽度 */
+  height: 100%;
+  /* 高度填满视窗 */
+  background: #e0949400;
+  color: rgb(133, 37, 37);
+  left: 0;
+  top: 20vh;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  z-index: 5;
+}
+
+.nav-links ul {
+  list-style: none;
+  padding: 0;
+  font-size: 15px;
+}
+
+.nav-links ul li a {
+  color: rgb(174, 77, 77);
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+  transition: background 0.3s;
+}
+
+.nav-links ul li a:hover {
+  background: #d6969666;
+}
+
+.hamburger-menu {
+  display: none;
+  cursor: pointer;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  .navbar2 {
+    width: 100%;
+
+    height: auto;
+  }
+
+  .nav-links {
+    display: none;
+ 
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .hamburger-menu {
+    display: block;
+
+  }
+}
+
+.fancy-link {
+  color: black;
+
+  text-decoration: underline;
+
+  text-decoration-color:#d2242772;
+
+  text-decoration-thickness: 2.5px;
+
+  transition: text-decoration-color 0.3s;
+
+}
+
+.fancy-link:hover,
+.fancy-link:focus {
+
+  text-decoration-color: #d72e31;
+
+  color:#000;
 }
 
 hr {

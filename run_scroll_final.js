@@ -269,35 +269,125 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
   
   gsap.to("#floatingboynew_text", {
-  scrollTrigger: {
-    trigger: "#floatingboynew_text",
-    start: "top center",
-    end: "bottom 30%",
-    scrub: true,
-    markers: true
+    scrollTrigger: {
+      trigger: "#floatingboynew_text",
+      start: "top center",
+      end: "bottom 30%",
+      scrub: true,
+      //markers: true
+    },
+    opacity:0
+  });
+
+
+  //cyril calories
+  ScrollTrigger.create({
+  trigger: "#cyrilcalhook",
+  start: "30% 50%",
+  end: "bottom 1%",
+  pin: true,
+  scrub: true,
+  pinSpacing: false, 
+  //markers: true,
+  });
+
+  let tl4 = gsap.timeline({
+    scrollTrigger: {
+      trigger: "#cyrilcalhook", // 触发动画的元素
+      start: "30% 50%", // 开始触发位置
+      end: "bottom 1%", // 结束触发位置
+      scrub: 2, // 平滑动画
+     // markers: true, // 显示调试标记
+    },
+  });
+
+  tl4.to("#Cyril_Cal", {
+    attr: { viewBox: "0 0 600 600" }, 
+    ease: "none",
+    duration: 3 
   },
-  opacity:0
-});
+  2);
 
-  
-
-
-  gsap.to("#CyrilEM", {
-  scrollTrigger: {
-    trigger: "#CyrilEM",
-    start: "top center",
-    end: "bottom top",
-    scrub: true,
-    markers: true
+  tl4.to("#redH",{
+    duration: 2, // Duration of the animation
+    opacity: 1, // Change opacity to reveal the element
   },
-  attr: { viewBox: "50 50 100 100" }, // 修改 viewBox 的值来"zoom in"
-  ease: "none"
-});
+  0);
+
+  tl4.to("#Cyril_Cal", {
+    attr: { viewBox: "300 0 700 600" }, 
+    ease: "none",
+    duration: 3,
+  },
+  );
+
+  tl4.to("#Cyril_Cal", {
+    attr: { viewBox: "0 0 805 600" }, 
+    ease: "none",
+    duration: 3,
+  },
+  );
+
+  gsap.to("#floatingboynew_text2", {
+    scrollTrigger: {
+      trigger: "#floatingboynew_text2",
+      start: "top center",
+      end: "bottom 30%",
+      scrub: true,
+      //markers: true
+    },
+    opacity:0
+  });
 
 
+  /*gsap.to("#cyrilemH", {
+    scrollTrigger: {
+      trigger: "#cyrilEm",
+      start: "20% center",
+      end: "bottom 30%",
+      scrub: true,
+      markers: true
+    },
+    opacity:0.2
+  });*/
+
+  //cyril calories
+  ScrollTrigger.create({
+  trigger: "#cyrilEm",
+  start: "40% 50%",
+  end: "bottom 1%",
+  pin: true,
+  scrub: true,
+  pinSpacing: false, 
+  markers: true,
+  });
+
+  let tl5 = gsap.timeline({
+    scrollTrigger: {
+      trigger: "#cyrilEm", // 触发动画的元素
+      start: "40% 50%", // 开始触发位置
+      end: "bottom 1%", // 结束触发位置
+      scrub: 2, // 平滑动画
+     // markers: true, // 显示调试标记
+    },
+  });
+
+  tl5.to("#cyrilemH",{
+    opacity: 0.3, // Change opacity to reveal the element
+  },
+  0);
 
 
-  
+  gsap.to("#floatingboynew_text3", {
+    scrollTrigger: {
+      trigger: "#floatingboynew_text3",
+      start: "top center",
+      end: "bottom 30%",
+      scrub: true,
+      //markers: true
+    },
+    opacity:0
+  });
   
 });
 

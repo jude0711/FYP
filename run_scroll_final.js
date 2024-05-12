@@ -359,7 +359,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
   pin: true,
   scrub: true,
   pinSpacing: false, 
-  markers: true,
+  //markers: true,
   });
 
   let tl5 = gsap.timeline({

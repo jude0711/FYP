@@ -280,8 +280,51 @@ document.addEventListener("DOMContentLoaded", (event) => {
   });
 
 
+
+  /*const video = document.getElementById('myVideo');
+  let timeout;  // 用于延时检测滚动停止
+
+  // 创建时间线
+  let tl4 = gsap.timeline({
+    scrollTrigger: {
+      trigger: "#cyrilcalhook",
+      start: "8% 50%",
+      end: "bottom 1%",
+      scrub: 2,
+      pin: true,
+      pinSpacing: false,
+      markers: true,
+      onUpdate: self => {
+        // 清除之前的延时器
+        clearTimeout(timeout);
+
+        // 设置新的延时器，如果滚动停止则暂停视频
+        timeout = setTimeout(() => {
+          video.pause();
+        }, 150); // 150毫秒内没有新的滚动事件则认为滚动停止
+
+        // 根据滚动方向播放或调整视频
+        if (self.direction > 0) {
+          // 向下滚动
+          video.play();
+        } else if (self.direction < 0) {
+          // 向上滚动
+          video.currentTime -= 0.033;  // 倒退播放的效果
+        }
+      },
+      onLeaveBack: () => {
+        video.currentTime = 0; // 重置视频到开始
+        video.pause();         // 暂停视频
+      },
+      onEnterBack: () => {
+        video.play();            // 从头开始播放
+      }
+    }
+  });*/
+
+
   //cyril calories
-  ScrollTrigger.create({
+  /*ScrollTrigger.create({
   trigger: "#cyrilcalhook",
   start: "30% 50%",
   end: "bottom 1%",
@@ -337,7 +380,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
       //markers: true
     },
     opacity:0
-  });
+  });*/
 
 
   /*gsap.to("#cyrilemH", {

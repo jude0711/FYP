@@ -106,14 +106,13 @@ svg{
 
 
 
-  video {
+.sportvideo {
   border-radius: 20px;
-    
+      
   overflow: hidden;
-   
-
-
 } 
+
+
 #topButton {
   position: fixed;
 
@@ -294,9 +293,9 @@ svg{
   height: auto;
 }
 
-#cyrilcalhook{
-  height: 100vh;
-}
+/* #cyrilcalhook{
+  height: 50vh;
+} */
 
 #cyrilEm{
   width: 100%;
@@ -327,6 +326,80 @@ svg{
   max-width: 600px;
 }
 
+#backward,
+#forward,
+#refreshButton {
+  position: relative;
+  padding: 10px;
+  margin: 5px;
+  font-size: 16px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid #8b8b8b00;
+  /* 添加边框以增加视觉效果 */
+  transition: background-color 0.3s;
+  /* 平滑背景颜色变化的过渡效果 */
+}
+
+#backward:hover,
+#forward:hover,
+#refreshButton:hover {
+  background-color: #f0f0f0;
+
+}
+
+.button-svg {
+  cursor: pointer;
+
+  transition: fill 0.3s;
+
+}
+
+.button-svg:hover {
+  fill: #f0f0f0;
+  /* 悬停时改变SVG填充颜色 */
+}
+
+
+
+.control {
+  display: inline-block;
+  /* 使控制组件在同一行显示且能够管理间距 */
+  margin: 20px;
+  /* 为控制组件提供适当的间距 */
+}
+
+.info-text {
+  margin-bottom: 5px;
+  /* 在文本和按钮之间提供间距 */
+  color: grey;
+  /* 设置文本颜色 */
+  font-size: 12px;
+  /* 设置文本大小 */
+}
+
+
+#myVideo{
+  width: 100%;
+  height: auto;
+  max-width: 700px;
+}
+
+
+.progress-bar-container {
+  width: 100%;
+  height: 5px;
+  background-color: #ccc;
+  cursor: pointer;
+}
+
+.progress-bar {
+  width: 0%;
+  height: 100%;
+  background-color: #b00;
+  /* 进度条颜色 */
+  transition: width 0.5s ease;
+}
 
 .navbar2 {
   position: fixed;

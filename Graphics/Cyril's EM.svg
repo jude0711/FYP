@@ -1,417 +1,473 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="cyrilem" data-name="cyrilEm" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 756.728 599.16">
+<svg id="cyrilem" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 748.318 512.818">
   <g>
     <g id="grillll">
-      <line x1="67" y1="125.59" x2="692.3" y2="125.59" style="fill: none; stroke: #d1d1d1; stroke-miterlimit: 10; stroke-width: .5px;"/>
-      <line x1="67.6" y1="205.99" x2="692.9" y2="205.99" style="fill: none; stroke: #d1d1d1; stroke-miterlimit: 10; stroke-width: .5px;"/>
-      <line x1="67.6" y1="288.89" x2="692.9" y2="288.89" style="fill: none; stroke: #d1d1d1; stroke-miterlimit: 10; stroke-width: .5px;"/>
-      <line x1="66.5" y1="368.89" x2="691.8" y2="368.89" style="fill: none; stroke: #d1d1d1; stroke-miterlimit: 10; stroke-width: .5px;"/>
-      <line x1="67" y1="452.99" x2="692.3" y2="452.99" style="fill: none; stroke: #d1d1d1; stroke-miterlimit: 10; stroke-width: .5px;"/>
+      <line x1="57.825" y1="104.101" x2="597.492" y2="104.101" style="fill: none; stroke: #d1d1d1; stroke-miterlimit: 10; stroke-width: .432px;"/>
+      <line x1="58.343" y1="173.491" x2="598.01" y2="173.491" style="fill: none; stroke: #d1d1d1; stroke-miterlimit: 10; stroke-width: .432px;"/>
+      <line x1="58.343" y1="245.038" x2="598.01" y2="245.038" style="fill: none; stroke: #d1d1d1; stroke-miterlimit: 10; stroke-width: .432px;"/>
+      <line x1="57.393" y1="314.083" x2="597.061" y2="314.083" style="fill: none; stroke: #d1d1d1; stroke-miterlimit: 10; stroke-width: .432px;"/>
+      <line x1="57.825" y1="386.665" x2="597.492" y2="386.665" style="fill: none; stroke: #d1d1d1; stroke-miterlimit: 10; stroke-width: .432px;"/>
     </g>
     <g id="axisssss">
       <g id="Xaxiss">
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(50 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">6am</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(43.153 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">6am</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(94.4 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">7</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(81.472 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">7</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(138.8 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">8</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(119.792 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">8</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(183.1 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">9</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(158.025 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">9</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(225 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">10</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(194.188 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">10</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(269.7 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">11</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(232.766 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">11</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(313.7 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">noon</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(270.74 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">noon</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(358.1 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">1pm</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(309.06 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">1pm</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(402.5 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">2</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(347.379 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">2</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(446.8 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">3</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(385.612 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">3</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(491.2 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">4</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(423.933 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">4</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(535.5 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">5</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(462.166 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">5</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(579.9 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">6</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(500.485 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">6</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(624.3 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">7</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(538.805 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">7</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(668.6 556.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">8</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(577.038 476.077)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">8am</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(682.1 575.29)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 12.3px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">T</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(588.689 492.218)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 10.616px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">T</tspan></text>
+            </g>
           </g>
           <g style="isolation: isolate;">
-            <text transform="translate(689.5 575.29)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 12.3px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">ime</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(595.076 492.218)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 10.616px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">ime</tspan></text>
+            </g>
           </g>
         </g>
       </g>
       <g id="Yaxisss2">
         <g style="isolation: isolate;">
-          <text transform="translate(718.5 56.69)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 12.3px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Minute</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(620.104 44.637)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 10.616px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Minute</tspan></text>
+          </g>
         </g>
         <g style="isolation: isolate;">
-          <text transform="translate(722.4 292.89)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">15</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(623.471 248.49)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">15</tspan></text>
+          </g>
         </g>
         <g style="isolation: isolate;">
-          <text transform="translate(721.5 537.99)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">0</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(622.694 460.025)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">0</tspan></text>
+          </g>
         </g>
         <g style="isolation: isolate;">
-          <text transform="translate(721.5 368.89)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">10</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(622.694 314.083)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">10</tspan></text>
+          </g>
         </g>
         <g style="isolation: isolate;">
-          <text transform="translate(719.6 456.69)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">5</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(621.055 389.858)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">5</tspan></text>
+          </g>
         </g>
         <g style="isolation: isolate;">
-          <text transform="translate(723.5 211.29)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">20</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(624.42 178.065)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">20</tspan></text>
+          </g>
         </g>
         <g style="isolation: isolate;">
-          <text transform="translate(724.6 129.49)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">25</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(625.369 107.467)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">25</tspan></text>
+          </g>
         </g>
         <g style="isolation: isolate;">
-          <text transform="translate(724.1 88.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">30</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(624.938 72.168)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">30</tspan></text>
+          </g>
         </g>
       </g>
       <g id="Yaxiss">
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(35.1 537.99)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">0</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(30.293 460.025)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">0</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(30.2 497.09)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">10</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(26.064 424.727)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">10</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(30.2 457.29)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">20</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(26.064 390.377)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">20</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(30.2 415.39)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">30</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(26.064 354.215)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">30</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(30.2 374.59)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">40</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(26.064 319.002)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">40</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(30.2 333.69)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">50</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(26.064 283.703)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">50</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(30.2 292.89)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">60</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(26.064 248.49)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">60</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(30.2 251.99)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">70</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(26.064 213.191)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">70</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(30.2 211.19)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">80</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(26.064 177.979)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">80</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(30.2 170.29)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">90</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(26.064 142.68)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">90</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(25.2 129.49)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">100</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(21.749 107.467)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">100</tspan></text>
+            </g>
           </g>
         </g>
         <g style="isolation: isolate;">
           <g style="isolation: isolate;">
-            <text transform="translate(25 88.69)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 13.4px; isolation: isolate;"><tspan x="0" y="0">110</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(21.577 72.255)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 11.565px; isolation: isolate;"><tspan x="0" y="0">110</tspan></text>
+            </g>
           </g>
         </g>
       </g>
     </g>
     <g id="viz" style="opacity: .4;">
       <g id="No">
-        <path d="M55.2,528.19s29.6-187.9,44.4-216.1,29.6,32.8,44.4,47c14.8,14.2,29.6,23.4,44.4,38,14.8,14.6,29.6,54.1,44.4,49.4,14.8-4.7,29.6-71.7,44.4-77.6s29.6,70.1,44.4,42.1,29.6-215.7,44.4-210.4,29.6,199.6,44.4,242.2c14.8,42.6,29.6,43,44.4,13.5s29.6-198,44.4-190.4,29.6,215.5,44.4,236.1c14.8,20.6,29.6-109.4,44.4-112.3,14.8-2.9,29.6,85.5,44.4,94.8,14.8,9.3,44.4-39.2,44.4-39.2" style="fill: none; opacity: .42; stroke: #919191; stroke-width: 2px;"/>
+        <path d="M47.641,451.567s25.546-162.168,38.32-186.506c12.773-24.338,25.546,28.308,38.32,40.564,12.773,12.255,25.546,20.195,38.32,32.796,12.773,12.601,25.546,46.691,38.32,42.635,12.773-4.056,25.546-61.881,38.32-66.973,12.773-5.092,25.546,60.5,38.32,36.335s25.546-186.161,38.32-181.587,25.546,172.266,38.32,209.032c12.773,36.766,25.546,37.111,38.32,11.651,12.773-25.46,25.546-170.885,38.32-164.325,12.773,6.559,25.546,185.988,38.32,203.767,12.773,17.779,25.546-94.418,38.32-96.921,12.773-2.503,25.546,73.791,38.32,81.818,12.773,8.026,38.32-33.832,38.32-33.832" style="fill: none; isolation: isolate; opacity: .42; stroke: #919191; stroke-width: 1.726px;"/>
         <g style="isolation: isolate;">
           <g style="isolation: isolate; opacity: .43;">
-            <text transform="translate(607 499.19)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 10.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">W</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(586.014 397.301)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 8.803px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">W</tspan></text>
+            </g>
           </g>
           <g style="isolation: isolate; opacity: .42;">
-            <text transform="translate(616.3 499.19)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 10.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">ithout PE class</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(594.04 397.301)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 8.803px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">ithout PE class</tspan></text>
+            </g>
           </g>
         </g>
       </g>
       <g id="Yes">
-        <path d="M55.2,515.49s29.6-247.2,44.4-262.3c14.8-15.1,29.6,152.6,44.4,172,14.8,19.3,29.6-53,44.4-56,14.8-2.9,29.6,30.6,44.4,38.4,14.8,7.8,29.6,33.7,44.4,8.2s29.6-109.1,44.4-161.4c14.8-52.3,29.6-156.6,44.4-152.4,14.8,4.2,29.6,148.1,44.4,177.7,14.8,29.6,29.6-16.9,44.4,0s29.6,79.5,44.4,101.3c14.8,21.9,29.6,25.3,44.4,29.8,14.8,4.5,29.6,15.5,44.4-2.9,14.8-18.4,29.6-108.5,44.4-107.4,14.8,1,44.4,113.6,44.4,113.6" style="fill: none; opacity: .42; stroke: #bc1b3a; stroke-width: 2px;"/>
+        <path d="M47.641,440.606s25.546-213.347,38.32-226.379c12.773-13.032,25.546,131.702,38.32,148.445,12.773,16.657,25.546-45.742,38.32-48.331,12.773-2.503,25.546,26.409,38.32,33.141,12.773,6.732,25.546,29.085,38.32,7.077,12.773-22.008,25.546-94.159,38.32-139.297,12.773-45.138,25.546-135.154,38.32-131.529,12.773,3.625,25.546,127.818,38.32,153.365,12.773,25.546,25.546-14.586,38.32,0,12.773,14.586,25.546,68.613,38.32,87.427,12.773,18.901,25.546,21.835,38.32,25.719,12.773,3.884,25.546,13.377,38.32-2.503,12.773-15.88,25.546-93.641,38.32-92.692,12.773.863,38.32,98.043,38.32,98.043" style="fill: none; isolation: isolate; opacity: .42; stroke: #bc1b3a; stroke-width: 1.726px;"/>
         <g style="isolation: isolate;">
           <g style="isolation: isolate; opacity: .43;">
-            <text transform="translate(632.9 424.49)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 10.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">W</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(590.25 356.506)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 8.803px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">W</tspan></text>
+            </g>
           </g>
           <g style="isolation: isolate; opacity: .42;">
-            <text transform="translate(642.2 424.49)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 10.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">ith PE class</tspan></text>
+            <g style="isolation: isolate;">
+              <text transform="translate(598.276 356.506)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 8.803px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">ith PE class</tspan></text>
+            </g>
           </g>
         </g>
       </g>
     </g>
     <g id="Notessss">
-      <line x1="142.7" y1="80.29" x2="142.7" y2="528.19" style="fill: none; stroke: #919191; stroke-dasharray: 0 0 0 0 0 0 3 3 0 0 0 0; stroke-width: .8px;"/>
+      <line x1="123.158" y1="65.005" x2="123.158" y2="451.567" style="fill: none; stroke: #919191; stroke-dasharray: 0 0 0 0 0 0 2.589 2.589 0 0 0 0; stroke-width: .69px;"/>
       <g style="isolation: isolate;">
         <g style="isolation: isolate;">
-          <text transform="translate(114.3 69.29)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 10.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Classes Begin</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(98.647 55.512)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 8.803px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Classes Begin</tspan></text>
+          </g>
         </g>
       </g>
-      <line x1="365.7" y1="77.79" x2="365.7" y2="532.69" style="fill: none; stroke: #919191; stroke-dasharray: 0 0 0 0 0 0 0 0 0 0 0 0; stroke-width: .8px;"/>
+      <line x1="315.619" y1="62.847" x2="315.619" y2="455.451" style="fill: none; stroke: #919191; stroke-dasharray: 0 0 0 0 0 0 2.589 2.589 0 0 0 0; stroke-width: .69px;"/>
       <g style="isolation: isolate;">
         <g style="isolation: isolate;">
-          <text transform="translate(336.5 69.29)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 10.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Lunch</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(290.418 55.512)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 8.803px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Lunch</tspan></text>
+          </g>
         </g>
         <g style="isolation: isolate;">
-          <text transform="translate(367.1 69.29)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 10.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">B</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(316.827 55.512)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 8.803px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">B</tspan></text>
+          </g>
         </g>
         <g style="isolation: isolate;">
-          <text transform="translate(373.2 69.29)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 10.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">r</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(322.092 55.512)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 8.803px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">r</tspan></text>
+          </g>
         </g>
         <g style="isolation: isolate;">
-          <text transform="translate(377.6 69.29)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 10.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">eak</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(325.889 55.512)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 8.803px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">eak</tspan></text>
+          </g>
         </g>
       </g>
-      <line x1="497.9" y1="80.29" x2="497.9" y2="536.59" style="fill: none; stroke: #919191; stroke-dasharray: 0 0 0 0 0 0 3 3 0 0 0 0; stroke-width: .8px;"/>
+      <line x1="429.715" y1="65.005" x2="429.715" y2="458.817" style="fill: none; stroke: #919191; stroke-dasharray: 0 0 0 0 0 0 2.589 2.589 0 0 0 0; stroke-width: .69px;"/>
       <g style="isolation: isolate;">
         <g style="isolation: isolate;">
-          <text transform="translate(471.4 69.39)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 10.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Classes End</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(406.844 55.598)" style="fill: #333; font-family: Amiri-Bold, Amiri; font-size: 8.803px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Classes End</tspan></text>
+          </g>
         </g>
       </g>
       <g style="isolation: isolate; opacity: .41;">
         <g style="isolation: isolate; opacity: .42;">
-          <text transform="translate(316.4 93.99)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 11.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Going out</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(273.07 76.829)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 9.666px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Going out</tspan></text>
+          </g>
         </g>
         <g style="isolation: isolate; opacity: .44;">
-          <text transform="translate(367.7 93.99)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 11.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">f</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(317.345 76.829)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 9.666px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">f</tspan></text>
+          </g>
         </g>
         <g style="isolation: isolate; opacity: .44;">
-          <text transform="translate(371.5 93.99)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 11.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">or lunch</tspan></text>
+          <g style="isolation: isolate;">
+            <text transform="translate(320.625 76.829)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 9.666px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">or lunch</tspan></text>
+          </g>
         </g>
       </g>
+      <g style="isolation: isolate; opacity: .28;">
+        <g style="isolation: isolate;">
+          <g style="isolation: isolate;">
+            <text transform="translate(64.643 184.279)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 9.666px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Commuting</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g style="isolation: isolate;">
+    <g style="isolation: isolate;">
       <g style="isolation: isolate;">
-        <g style="isolation: isolate;">
-          <text transform="translate(413.3 243.39)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 11.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">PE Class</tspan></text>
-        </g>
+        <text transform="translate(0 501.711)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 12.342px; isolation: isolate;"><tspan x="0" y="0">Sou</tspan></text>
       </g>
-      <g style="isolation: isolate; opacity: .28;">
-        <g style="isolation: isolate;">
-          <text transform="translate(604.4 286.59)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 11.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Commuting</tspan></text>
-        </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <text transform="translate(18.383 501.711)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 12.342px; isolation: isolate;"><tspan x="0" y="0">r</tspan></text>
       </g>
-      <g style="isolation: isolate; opacity: .42;">
-        <g style="isolation: isolate;">
-          <text transform="translate(469.8 257.19)" style="fill: #919191; font-family: Amiri-Bold, Amiri; font-size: 11.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Commuting</tspan></text>
-        </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <text transform="translate(22.871 501.711)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 12.342px; isolation: isolate;"><tspan x="0" y="0">ce: Data f</tspan></text>
       </g>
-      <g style="isolation: isolate; opacity: .28;">
-        <g style="isolation: isolate;">
-          <text transform="translate(74.9 218.49)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 11.2px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Commuting</tspan></text>
-        </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <text transform="translate(69.39 501.711)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 12.342px; isolation: isolate;"><tspan x="0" y="0">r</tspan></text>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <text transform="translate(73.963 501.711)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 12.342px; isolation: isolate;"><tspan x="0" y="0">om Ap</tspan></text>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <text transform="translate(106.846 501.711)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 12.342px; isolation: isolate;"><tspan x="0" y="0">p</tspan></text>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <text transform="translate(112.974 501.711)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 12.342px; isolation: isolate;"><tspan x="0" y="0">le</tspan></text>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <text transform="translate(124.797 501.711)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 12.342px; isolation: isolate;"><tspan x="0" y="0">H</tspan></text>
+      </g>
+    </g>
+    <g style="isolation: isolate;">
+      <g style="isolation: isolate;">
+        <text transform="translate(133.342 501.711)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 12.342px; isolation: isolate;"><tspan x="0" y="0">ealth.</tspan></text>
       </g>
     </g>
   </g>
   <g style="isolation: isolate;">
     <g style="isolation: isolate;">
-      <text transform="translate(0 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">C</tspan></text>
+      <text transform="translate(11.997 43.342)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 10.616px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Ki</tspan></text>
+      <text transform="translate(22.708 43.342)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 10.616px; font-weight: 700; isolation: isolate; letter-spacing: -.006em;"><tspan x="0" y="0">l</tspan></text>
+      <text transform="translate(25.807 43.342)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 10.616px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">oca</tspan></text>
+      <text transform="translate(40.828 43.342)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 10.616px; font-weight: 700; isolation: isolate; letter-spacing: -.006em;"><tspan x="0" y="0">l</tspan></text>
+      <text transform="translate(43.928 43.342)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 10.616px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">or</tspan></text>
+      <text transform="translate(54.087 43.342)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 10.616px; font-weight: 700; isolation: isolate; letter-spacing: -.004em;"><tspan x="0" y="0">i</tspan></text>
+      <text transform="translate(57.304 43.342)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 10.616px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">e</tspan></text>
     </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(12 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">yril Cheng&apos;s</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(113.7 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">A</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(125.7 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">ct</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(140.1 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">i</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(145.7 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">v</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(155.1 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">e Ene</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(199.1 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">r</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(207.2 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">gy Expenditu</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(313.9 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">r</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(322 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">e on</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(361.8 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">T</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(372.5 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">w</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(386.6 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">o Scho</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(439.7 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">o</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(449.3 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">l D</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(474.2 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">a</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(482.4 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">y</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(492 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">s:</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(509.6 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">W</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(526.7 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">ith and</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(589.7 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">W</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(606.8 15.39)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 18.7px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">ithout PE Class</tspan></text>
-    </g>
-  </g>
-  <g style="isolation: isolate;">
-    <g style="isolation: isolate;">
-      <text transform="translate(0 586.29)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 14.3px; isolation: isolate;"><tspan x="0" y="0">Sou</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(21.3 586.29)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 14.3px; isolation: isolate;"><tspan x="0" y="0">r</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(26.5 586.29)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 14.3px; isolation: isolate;"><tspan x="0" y="0">ce: Data f</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(80.4 586.29)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 14.3px; isolation: isolate;"><tspan x="0" y="0">r</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(85.7 586.29)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 14.3px; isolation: isolate;"><tspan x="0" y="0">om Ap</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(123.8 586.29)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 14.3px; isolation: isolate;"><tspan x="0" y="0">p</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(130.9 586.29)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 14.3px; isolation: isolate;"><tspan x="0" y="0">le</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(144.6 586.29)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 14.3px; isolation: isolate;"><tspan x="0" y="0">H</tspan></text>
-    </g>
-    <g style="isolation: isolate;">
-      <text transform="translate(154.5 586.29)" style="fill: #636363; font-family: Amiri-Regular, Amiri; font-size: 14.3px; isolation: isolate;"><tspan x="0" y="0">ealth.</tspan></text>
-    </g>
-  </g>
-  <g style="isolation: isolate;">
-    <text transform="translate(13.9 55.19)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 12.3px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">Ki</tspan><tspan x="12.411" y="0" style="letter-spacing: -.006em;">l</tspan><tspan x="16.002" y="0">oca</tspan><tspan x="33.406" y="0" style="letter-spacing: -.006em;">l</tspan><tspan x="36.998" y="0">or</tspan><tspan x="48.769" y="0" style="letter-spacing: -.004em;">i</tspan><tspan x="52.496" y="0">e</tspan></text>
   </g>
   <g id="bar">
     <g id="noPEE">
-      <rect x="100.2" y="407.09" width="12.9" height="132.9" rx="3" ry="3" style="fill: #9c9c9c; stroke-width: 0px;"/>
-      <rect x="143.7" y="523.59" width="12.9" height="16.3" rx="1" ry="1" style="fill: #9c9c9c; stroke-width: 0px;"/>
-      <rect x="187.2" y="489.59" width="12.9" height="50.3" rx="1.8" ry="1.8" style="fill: #9c9c9c; stroke-width: 0px;"/>
-      <rect x="234.5" y="488.79" width="12.9" height="51" rx="1.8" ry="1.8" style="fill: #9c9c9c; stroke-width: 0px;"/>
-      <rect x="277.5" y="453.99" width="12.9" height="85.7" rx="2.4" ry="2.4" style="fill: #9c9c9c; stroke-width: 0px;"/>
-      <rect x="322.9" y="488.79" width="12.9" height="51.2" rx="1.8" ry="1.8" style="fill: #9c9c9c; stroke-width: 0px;"/>
-      <rect x="366.7" y="349.19" width="12.9" height="190.6" rx="3.5" ry="3.5" style="fill: #9c9c9c; stroke-width: 0px;"/>
-      <rect x="411.8" y="537.79" width="12.9" height="1.9" rx=".4" ry=".4" style="fill: #9c9c9c; stroke-width: 0px;"/>
-      <rect x="454.9" y="537.79" width="12.9" height="1.9" rx=".4" ry=".4" style="fill: #9c9c9c; stroke-width: 0px;"/>
-      <rect x="498.8" y="453.79" width="12.9" height="85.7" rx="2.4" ry="2.4" style="fill: #9c9c9c; stroke-width: 0px;"/>
-      <rect x="544.2" y="536.99" width="12.9" height="2.4" rx=".4" ry=".4" style="fill: #9c9c9c; stroke-width: 0px;"/>
-      <rect x="587.6" y="488.79" width="12.9" height="50.5" rx="1.8" ry="1.8" style="fill: #9c9c9c; stroke-width: 0px;"/>
-      <rect x="631.8" y="536.59" width="12.9" height="2.5" rx=".4" ry=".4" style="fill: #9c9c9c; stroke-width: 0px;"/>
-      <rect x="677.2" y="536.59" width="12.9" height="2.5" rx=".4" ry=".4" style="fill: #9c9c9c; stroke-width: 0px;"/>
+      <rect x="86.478" y="347.051" width="11.133" height="114.7" rx="2.589" ry="2.589" style="fill: #dedede; stroke-width: 0px;"/>
+      <rect x="124.021" y="447.597" width="11.133" height="14.068" rx=".863" ry=".863" style="fill: #dedede; stroke-width: 0px;"/>
+      <rect x="161.564" y="418.253" width="11.133" height="43.412" rx="1.553" ry="1.553" style="fill: #dedede; stroke-width: 0px;"/>
+      <rect x="202.386" y="417.563" width="11.133" height="44.016" rx="1.553" ry="1.553" style="fill: #dedede; stroke-width: 0px;"/>
+      <rect x="239.498" y="387.528" width="11.133" height="73.964" rx="2.071" ry="2.071" style="fill: #dedede; stroke-width: 0px;"/>
+      <rect x="278.68" y="417.563" width="11.133" height="44.188" rx="1.553" ry="1.553" style="fill: #dedede; stroke-width: 0px;"/>
+      <rect x="316.482" y="297.08" width="11.133" height="164.498" rx="3.021" ry="3.021" style="fill: #dedede; stroke-width: 0px;"/>
+      <rect x="355.406" y="459.852" width="11.133" height="1.64" rx=".345" ry=".345" style="fill: #dedede; stroke-width: 0px;"/>
+      <rect x="392.603" y="459.852" width="11.133" height="1.64" rx=".345" ry=".345" style="fill: #dedede; stroke-width: 0px;"/>
+      <rect x="430.491" y="387.356" width="11.133" height="73.964" rx="2.071" ry="2.071" style="fill: #dedede; stroke-width: 0px;"/>
+      <rect x="469.674" y="459.162" width="11.133" height="2.071" rx=".345" ry=".345" style="fill: #dedede; stroke-width: 0px;"/>
+      <rect x="507.131" y="417.563" width="11.133" height="43.584" rx="1.553" ry="1.553" style="fill: #dedede; stroke-width: 0px;"/>
+      <rect x="545.278" y="458.817" width="11.133" height="2.158" rx=".345" ry=".345" style="fill: #dedede; stroke-width: 0px;"/>
+      <rect x="584.46" y="458.817" width="11.133" height="2.158" rx=".345" ry=".345" style="fill: #dedede; stroke-width: 0px;"/>
     </g>
     <g id="PEEEE">
-      <rect x="85.4" y="427.59" width="12.9" height="112.5" rx="2.7" ry="2.7" style="fill: #bc1b3a; stroke-width: 0px;"/>
-      <rect x="128.9" y="523.59" width="12.9" height="16.5" rx="1" ry="1" style="fill: #bc1b3a; stroke-width: 0px;"/>
-      <rect x="172.5" y="439.09" width="12.9" height="100.9" rx="2.6" ry="2.6" style="fill: #bc1b3a; stroke-width: 0px;"/>
-      <rect x="219.8" y="523.59" width="12.9" height="16.3" rx="1" ry="1" style="fill: #bc1b3a; stroke-width: 0px;"/>
-      <rect x="262.7" y="512.49" width="12.9" height="27.4" rx="1.3" ry="1.3" style="fill: #bc1b3a; stroke-width: 0px;"/>
-      <rect x="308.1" y="349.19" width="12.9" height="190.9" rx="3.5" ry="3.5" style="fill: #bc1b3a; stroke-width: 0px;"/>
-      <rect x="351.9" y="257.09" width="12.9" height="282.9" rx="4.3" ry="4.3" style="fill: #bc1b3a; stroke-width: 0px;"/>
-      <rect x="397.1" y="454.29" width="12.9" height="85.6" rx="2.4" ry="2.4" style="fill: #bc1b3a; stroke-width: 0px;"/>
-      <rect x="440.2" y="523.59" width="12.9" height="16.1" rx="1" ry="1" style="fill: #bc1b3a; stroke-width: 0px;"/>
-      <rect x="484.1" y="523.59" width="12.9" height="16" rx="1" ry="1" style="fill: #bc1b3a; stroke-width: 0px;"/>
-      <rect x="572.8" y="523.59" width="12.9" height="15.8" rx="1" ry="1" style="fill: #bc1b3a; stroke-width: 0px;"/>
-      <rect x="617" y="512.49" width="12.9" height="26.9" rx="1.3" ry="1.3" style="fill: #bc1b3a; stroke-width: 0px;"/>
-      <rect x="530" y="536.99" width="12.9" height="2.4" rx=".4" ry=".4" style="fill: #bc1b3a; stroke-width: 0px;"/>
-      <rect x="662.6" y="536.69" width="12.9" height="2.4" rx=".4" ry=".4" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="73.705" y="364.744" width="11.133" height="97.094" rx="2.33" ry="2.33" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="111.248" y="447.597" width="11.133" height="14.24" rx=".863" ry=".863" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="148.877" y="374.669" width="11.133" height="87.082" rx="2.244" ry="2.244" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="189.699" y="447.597" width="11.133" height="14.068" rx=".863" ry=".863" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="226.724" y="438.017" width="11.133" height="23.648" rx="1.122" ry="1.122" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="265.907" y="297.08" width="11.133" height="164.757" rx="3.021" ry="3.021" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="303.709" y="217.593" width="11.133" height="244.158" rx="3.711" ry="3.711" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="342.719" y="387.787" width="11.133" height="73.877" rx="2.071" ry="2.071" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="379.916" y="447.597" width="11.133" height="13.895" rx=".863" ry=".863" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="417.805" y="447.597" width="11.133" height="13.809" rx=".863" ry=".863" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="494.357" y="447.597" width="11.133" height="13.636" rx=".863" ry=".863" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="532.504" y="438.017" width="11.133" height="23.216" rx="1.122" ry="1.122" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="457.419" y="459.162" width="11.133" height="2.071" rx=".345" ry=".345" style="fill: #bc1b3a; stroke-width: 0px;"/>
+      <rect x="571.86" y="458.903" width="11.133" height="2.071" rx=".345" ry=".345" style="fill: #bc1b3a; stroke-width: 0px;"/>
     </g>
   </g>
-  <polyline points="416.7 262.79 416.7 255.49 428.6 255.49 432.4 251.39 437 255.99 448.8 255.99 448.8 262.79" style="fill: none; stroke: #bc1b3a; stroke-miterlimit: 10;"/>
-  <polyline points="403.5 445.89 403.5 436.09 419.5 436.09 424.6 430.59 430.7 436.79 446.6 436.79 446.6 445.89" style="fill: none; stroke: #bc1b3a; stroke-miterlimit: 10; stroke-width: 1.3px;"/>
+  <polyline points="348.242 380.538 348.242 372.08 362.051 372.08 366.453 367.333 371.717 372.684 385.44 372.684 385.44 380.538" style="fill: none; stroke: #bc1b3a; stroke-miterlimit: 10; stroke-width: 1.122px;"/>
   <g style="isolation: isolate;">
-    <text transform="translate(392.763 417.901)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 16px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">6 minutes</tspan></text>
+    <g style="isolation: isolate;">
+      <text transform="translate(338.976 356.382)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 13.809px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">6 minutes</tspan></text>
+    </g>
   </g>
   <g style="isolation: isolate;">
-    <text transform="translate(317.55 243.389)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 16px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">17 minutes</tspan></text>
+    <g style="isolation: isolate;">
+      <text transform="translate(274.063 205.768)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 13.809px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">17 minutes</tspan></text>
+    </g>
   </g>
-  <rect x="392.763" y="296.745" width="79.035" height="242.6" style="fill: #ab5555; isolation: isolate; opacity: .2; stroke-width: 0px;"/>
+  <text transform="translate(12.351 17.443)" style="fill: #000; font-family: Amiri-Bold, Amiri; font-size: 16.398px; font-weight: 700;"><tspan x="0" y="0" style="letter-spacing: -.013em;">C</tspan><tspan x="10.577" y="0">yril Cheng</tspan><tspan x="85.678" y="0" style="letter-spacing: -.013em;">’</tspan><tspan x="88.827" y="0" style="letter-spacing: 0em;">s E</tspan><tspan x="109.701" y="0" style="letter-spacing: -.024em;">x</tspan><tspan x="118.228" y="0">e</tspan><tspan x="125.59" y="0" style="letter-spacing: -.011em;">r</tspan><tspan x="132.592" y="0">cise Minute on </tspan><tspan x="241.981" y="0" style="letter-spacing: -.046em;">T</tspan><tspan x="251.377" y="0" style="letter-spacing: -.019em;">w</tspan><tspan x="263.692" y="0">o Scho</tspan><tspan x="310.311" y="0" style="letter-spacing: -.006em;">o</tspan><tspan x="318.723" y="0" style="letter-spacing: 0em;">l D</tspan><tspan x="340.582" y="0" style="letter-spacing: -.021em;">a</tspan><tspan x="347.78" y="0" style="letter-spacing: -.008em;">y</tspan><tspan x="356.192" y="0">s: </tspan><tspan x="371.623" y="0" style="letter-spacing: -.012em;">W</tspan><tspan x="386.643" y="0">ith and </tspan><tspan x="441.886" y="0" style="letter-spacing: -.012em;">W</tspan><tspan x="456.908" y="0" style="letter-spacing: 0em;">ithout PE Class</tspan></text>
+  <rect x="337.051" y="463.511" width="68.211" height="19.854" style="fill: #ab5555; isolation: isolate; opacity: .2; stroke-width: 0px;"/>
+  <g style="isolation: isolate;">
+    <g style="isolation: isolate;">
+      <text transform="translate(344.432 339.672)" style="fill: #bc1b3a; font-family: Amiri-Bold, Amiri; font-size: 13.809px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">PE Class</tspan></text>
+    </g>
+  </g>
+  <line x1="105.586" y1="23.425" x2="233.204" y2="23.425" style="fill: none; opacity: .48; stroke: #bc1b3a; stroke-miterlimit: 10; stroke-width: 1.874px;"/>
+  <path d="M667.808,0h3.426c1.122,0,2.032.097,2.032.217v11.406c0,.12-.91.217-2.032.217h-3.426c-1.122,0-2.032-.097-2.032-.217V.217c0-.12.91-.217,2.032-.217Z" style="fill: #bc1b3a; stroke-width: 0px;"/>
+  <text transform="translate(681.301 8.84)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 10px;"><tspan x="0" y="0" style="letter-spacing: -.009em;">W</tspan><tspan x="8.69" y="0">ith </tspan><tspan x="22.3" y="0" style="letter-spacing: -.005em;">P</tspan><tspan x="27.6" y="0" style="letter-spacing: 0em;">E class</tspan></text>
+  <path d="M667.537,26.406h3.426c1.122,0,2.032.097,2.032.217v11.406c0,.12-.91.217-2.032.217h-3.426c-1.122,0-2.032-.097-2.032-.217v-11.406c0-.12.91-.217,2.032-.217Z" style="fill: #dedede; stroke-width: 0px;"/>
+  <text transform="translate(681.029 35.246)" style="fill: #000; font-family: Amiri-Regular, Amiri; font-size: 10px;"><tspan x="0" y="0" style="letter-spacing: -.009em;">W</tspan><tspan x="8.69" y="0">ithout </tspan><tspan x="35.319" y="0" style="letter-spacing: -.005em;">P</tspan><tspan x="40.619" y="0" style="letter-spacing: 0em;">E class</tspan></text>
 </svg>

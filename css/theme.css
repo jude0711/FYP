@@ -392,9 +392,9 @@ svg{
 .info-text {
   margin-bottom: 5px;
   /* 在文本和按钮之间提供间距 */
-  color: grey;
+  color: rgb(87, 87, 87);
   /* 设置文本颜色 */
-  font-size: 12px;
+  font-size: 20px;
   /* 设置文本大小 */
 }
 

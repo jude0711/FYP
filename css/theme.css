@@ -120,9 +120,9 @@ svg{
 
   right: 20px;
 
-  background-color: #832d2f;
+  background-color: #832d2f00;
 
-  color: white;
+  color: #202020;
 
   border: none;
 
@@ -132,6 +132,10 @@ svg{
 
   cursor: pointer;
 
+}
+
+#topButton:hover{
+  background-color: #dedede;
 }
 
 
@@ -331,12 +335,24 @@ svg{
 }
 
 #backward,
-#forward,
-#refreshButton {
+#forward {
   position: relative;
   padding: 10px;
   margin: 5px;
   font-size: 16px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid #8b8b8b00;
+  /* 添加边框以增加视觉效果 */
+  transition: background-color 0.3s;
+  /* 平滑背景颜色变化的过渡效果 */
+}
+
+#refreshButton{
+  position: relative;
+  padding: 10px;
+  margin: 5px;
+  font-size: 26px;
   background-color: white;
   border-radius: 10px;
   border: 1px solid #8b8b8b00;
@@ -439,6 +455,12 @@ svg{
   background: #d6969666;
 }
 
+.navbar2 .nav-links ul li a.active {
+  background-color:#d6969666;
+}
+
+
+
 .hamburger-menu {
   display: none;
   cursor: pointer;
@@ -448,7 +470,7 @@ svg{
 @media (max-width: 768px) {
   .navbar2 {
     width: 100%;
-
+    
     height: auto;
   }
 
@@ -461,7 +483,7 @@ svg{
 
   .hamburger-menu {
     display: block;
-
+    
   }
 }
 
